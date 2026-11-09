@@ -1,0 +1,52 @@
+{
+  "id": "nano-banana-2-lite",
+  "label": "Nano Banana 2 Lite",
+  "family": "gemini-3.1-flash-lite-image",
+  "docs_verified_at": "2026-11-06",
+  "configuration_mode": "provider_defaults",
+  "settings": {
+    "aspect_ratio": "1:1",
+    "output_format": "png"
+  },
+  "providers": {
+    "segmind": {
+      "max_reference_images": 14,
+      "model": "nano-banana-2-lite",
+      "request_defaults": {
+        "response_modalities": "TEXT_AND_IMAGE",
+        "output_format": "png",
+        "output_resolution": "1K"
+      },
+      "documentation_url": "https://www.segmind.com/models/nano-banana-2-lite/api"
+    },
+    "fal": {
+      "max_reference_images": 14,
+      "text_model": "google/nano-banana-2-lite",
+      "edit_model": "google/nano-banana-2-lite/edit",
+      "request_defaults": {
+        "num_images": 1,
+        "limit_generations": true
+      },
+      "documentation_url": "https://fal.ai/models/google/nano-banana-2-lite/edit/api"
+    },
+    "vertex": {
+      "model": "gemini-3.1-flash-lite-image",
+      "location": "global",
+      "request_defaults": {
+        "generationConfig": {
+          "imageConfig": {
+            "imageSize": "1K"
+          }
+        }
+      },
+      "documentation_url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/3-1-flash-lite-image"
+    }
+  },
+  "notes": [
+    "Fixed square 1K comparison; PNG is requested where format control is available.",
+    "Lite supports only 1K. Segmind and Vertex explicitly request 1K through provider defaults; fal exposes no resolution parameter, so none is sent.",
+    "Provider defaults refers to safety and thinking settings; those defaults may differ across providers.",
+    "No seed, safety override, fallback model, system prompt, or web grounding is requested.",
+    "Provider model names can be aliases. Record any actual modelVersion returned; absent values remain unknown."
+  ]
+}

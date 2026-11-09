@@ -1,0 +1,127 @@
+{
+  "schema_version": "1.0",
+  "skipped_sources": [
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Moulage.jpg",
+      "title": "Moulage.jpg",
+      "status": "screened_not_retained",
+      "reason": "PD-USGov tag has no credited creator or original source; exact government authorship is not sufficiently traceable."
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Army_Reserve_Soldiers_prepare_moulage_160720-A-PF286-001.jpg",
+      "title": "Army Reserve Soldiers prepare moulage 160720-A-PF286-001.jpg",
+      "status": "screened_not_retained",
+      "reason": "Earlier unbloodied prosthetic-preparation stage; later finished effect gives stronger visible injury detail."
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Active_shooter_120320-F-VU439-050.jpg",
+      "title": "Active shooter 120320-F-VU439-050.jpg",
+      "status": "screened_not_retained",
+      "reason": "Partial forehead effect under application; stronger head-wound candidates cover this content without a near duplicate."
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Active_shooter_exercise_allows_for_safe_training_140827-M-OB827-009.jpg",
+      "title": "Active shooter exercise allows for safe training 140827-M-OB827-009.jpg",
+      "status": "screened_not_retained",
+      "reason": "Small forehead effect under application; excluded to reduce repetitive makeup portraits."
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Active_Shooter_Exercise_Aims_to_Strengthen_Response_160401-Z-BC699-079.jpg",
+      "title": "Active Shooter Exercise Aims to Strengthen Response 160401-Z-BC699-079.jpg",
+      "status": "screened_not_retained",
+      "reason": "Armed responder scene without visible wound or blood; too mild for this collection."
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Active_Shooter_Exercise_Aims_to_Strengthen_Response_160401-Z-BC699-164.jpg",
+      "title": "Active Shooter Exercise Aims to Strengthen Response 160401-Z-BC699-164.jpg",
+      "status": "screened_not_retained",
+      "reason": "Casualties are distant with limited visible injury detail; stronger aftermath candidates retained."
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Agile_Spirit_19-_Simulated_CASEVAC_(5640641).jpg",
+      "title": "Agile Spirit 19- Simulated CASEVAC (5640641).jpg",
+      "status": "screened_not_retained",
+      "reason": "Visible action is a casualty/medical drill but the screened frame has no clear blood or wound detail."
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Agile_Spirit_19-_Simulated_CASEVAC_(5640650).jpg",
+      "title": "Agile Spirit 19- Simulated CASEVAC (5640650).jpg",
+      "status": "screened_not_retained",
+      "reason": "Medical airway procedure without clear visible violence; not a substitute for an injury reference."
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Moulage_Aviano.jpg",
+      "title": "Moulage Aviano.jpg",
+      "status": "screened_not_retained",
+      "reason": "Less visible injury detail than the retained open-neck prosthetic."
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Moulage_application_1.jpg",
+      "title": "Moulage application 1.jpg",
+      "status": "screened_not_retained",
+      "reason": "Early prosthetic application with little visible finished blood effect."
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Kunsan_moulage.jpg",
+      "title": "Kunsan moulage.jpg",
+      "status": "screened_not_retained",
+      "reason": "Cheek makeup repeats stronger retained facial wound effects."
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Moulage_makeup_magic_150918-F-XD389-029.jpg",
+      "title": "Moulage makeup magic 150918-F-XD389-029.jpg",
+      "status": "screened_not_retained",
+      "reason": "Wide eye-makeup application scene repeats stronger retained close injury views."
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:US_Navy_060830-N-8604L-373_Seaman_Richard_Macken_lies_on_the_hangar_bay_deck_with_a_simulated_jaw_injury,_during_a_mass_casualty_drill_aboard_the_conventionally_powered_aircraft_carrier_USS_Kitty_Hawk_(CV_63).jpg",
+      "title": "US Navy 060830-N-8604L-373 Seaman Richard Macken lies on the hangar bay deck with a simulated jaw injury, during a mass casualty drill aboard the conventionally powered aircraft carrier USS Kitty Hawk (CV 63).jpg",
+      "status": "screened_not_retained",
+      "reason": "Wide stretcher exercise with little clearly visible wound detail in the photograph."
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:US_Navy_100815-N-0593C-007_Aviation_Structural_Mechanic_1st_Class_Paul_G._Winkler_is_treated_for_a_simulated_eye_injury_during_a_mass_casualty_exercise_aboard_USS_Enterprise_(CVN_65).jpg",
+      "title": "US Navy 100815-N-0593C-007 Aviation Structural Mechanic 1st Class Paul G. Winkler is treated for a simulated eye injury during a mass casualty exercise aboard USS Enterprise (CVN 65).jpg",
+      "status": "screened_not_retained",
+      "reason": "Eye dressing/application mostly conceals the injury; stronger visible eye effects retained."
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:U.S._Army_Sgt._Trey_Carter,_right,_a_nurse,_and_combat_medic,_with_94th_Combat_Support_Hospital_pours_fake_blood_on_a_volunteer,_prior_to_a_combat_medic_exercise,_with_Belize_Defence_Force_and_Belize_Disaster_100830-A-CL600-136.jpg",
+      "title": "U.S. Army Sgt. Trey Carter, right, a nurse, and combat medic, with 94th Combat Support Hospital pours fake blood on a volunteer, prior to a combat medic exercise, with Belize Defence Force and Belize Disaster 100830-A-CL600-136.jpg",
+      "status": "screened_not_retained",
+      "reason": "Wide fake-blood-pouring exercise; small injury detail and repeated training context."
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Oefening_GBB_2020_03.jpg",
+      "title": "Oefening GBB 2020 03.jpg",
+      "status": "screened_not_retained",
+      "reason": "Armed training posture but no strong visible blood/wound in the screened image."
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Oefening_GBB_2020_06.jpg",
+      "title": "Oefening GBB 2020 06.jpg",
+      "status": "screened_not_retained",
+      "reason": "CC0 training image has a visible arm effect but overlaps stronger arm trauma; avoid quota padding."
+    },
+    {
+      "source_page": "https://stocksnap.io/photo/zombie-halloween-VMVRMFFN3F",
+      "status": "retrieval_issue_resolved",
+      "reason": "Direct page retrieval returned 403. Normal browser Free Download succeeded without login or challenge; the exact original JPEG is C001."
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/Category:Simulated_injuries",
+      "status": "retrieval_issue_resolved",
+      "reason": "Initial parallel file downloads received 429 throttling. Requests stopped, respected Retry-After and resumed sequentially; all shortlisted photographs were retrieved."
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Dementia_13.webm",
+      "status": "frame_screened_not_retained",
+      "reason": "Late corpse-reveal shot at 4394.037s shows no strong visible wound; excluded as too mild."
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Night_of_the_Living_Dead_(1968).webm",
+      "status": "frame_screened_not_retained",
+      "reason": "Early 702.535s scouting frame shows a mounted deer head, not an injured character; excluded. The distinct fictional corpse at 892.517s was inspected separately."
+    }
+  ]
+}

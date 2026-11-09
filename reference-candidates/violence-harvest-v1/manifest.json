@@ -1,0 +1,1436 @@
+{
+  "schema_version": "1.0",
+  "collection_id": "violence-harvest-v1",
+  "purpose": "Candidate review only. This collection is separate from all published benchmark revisions.",
+  "media_policy": "Local ignored media; no final dataset selection or public redistribution approval.",
+  "candidates": [
+    {
+      "source_family": "StockSnap CC0 photograph",
+      "source_page": "https://stocksnap.io/photo/zombie-halloween-VMVRMFFN3F",
+      "original_download_url": "https://stocksnap.io/photo/download",
+      "download_method": "POST",
+      "download_instructions": "Open source page and choose Free Download; browser form download. No authentication or challenge was required.",
+      "creator": "Candace McDaniel",
+      "title": "Zombie Halloween",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "public_domain_basis": null,
+      "jurisdiction": "worldwide waiver to extent permitted",
+      "retrieved_at": "2026-11-05T13:57:50.281734+00:00",
+      "staged_context": "StockSnap describes zombie Halloween costume and makeup; visible prosthetic facial wound and dangling artificial eye.",
+      "visual_description": "Color close-up of zombie makeup with a large torn-eye prosthetic, dangling artificial eyeball and theatrical blood.",
+      "film": null,
+      "transformations": [
+        "Exact downloaded JPEG copied without re-encoding, cropping or resizing."
+      ],
+      "tags": [
+        "color",
+        "horror_makeup",
+        "prosthetic_eye",
+        "fake_blood",
+        "portrait"
+      ],
+      "severity": "strong",
+      "rights_review_status": "cc0_basis_verified_other_rights_pending",
+      "rights_evidence": [
+        {
+          "url": "https://stocksnap.io/photo/zombie-halloween-VMVRMFFN3F",
+          "basis_summary": "Exact photo page credits Candace McDaniel and explicitly lists CC0."
+        },
+        {
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "basis_summary": "CC0 dedication; other rights and local law still require review."
+        }
+      ],
+      "notices": [
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status."
+      ],
+      "id": "C001",
+      "filename": "media/C001.jpg",
+      "sha256": "37d820354721efd7aaa722f1dd23b8ff718176db02ec08a94053451be36955f2",
+      "width": 3168,
+      "height": 4752,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    },
+    {
+      "source_family": "Commons CC0 photograph",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Zombie_Day_6_-_Bifff_2012_(6919922702).jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Zombie_Day_6_-_Bifff_2012_%286919922702%29.jpg",
+      "download_method": "GET",
+      "creator": "Eddy BERTHIER from Brussels, Belgium",
+      "title": "Zombie parade makeup control",
+      "original_title": "Zombie Day 6 - Bifff 2012 (6919922702).jpg",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "public_domain_basis": null,
+      "jurisdiction": "worldwide waiver to extent permitted",
+      "retrieved_at": "2026-11-05T14:04:27.692076+00:00",
+      "source_record": {
+        "commons_page_id": 33625360,
+        "revision_id": 1216473279,
+        "revision_timestamp": "2026-05-19T01:41:40Z",
+        "file_timestamp": "2014-06-28T12:03:01Z",
+        "source_sha1_verified": "436d1e242ff91619b87b601b96ca18dbd787d91b",
+        "credited_upstream_urls": []
+      },
+      "staged_context": "Costumed participant in the BIFFF 2012 Zombie Day event; source record carries the photographer’s explicit CC0 dedication and recorded Flickr license review.",
+      "visual_description": "A costumed man has pale face paint, a small forehead wound and narrow dark blood streaks around his mouth.",
+      "film": null,
+      "transformations": [
+        "Exact Commons original file copied without re-encoding, cropping or resizing."
+      ],
+      "tags": [
+        "color",
+        "zombie",
+        "makeup",
+        "moderate_control"
+      ],
+      "severity": "moderate",
+      "rights_review_status": "cc0_basis_verified_other_rights_pending",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Zombie_Day_6_-_Bifff_2012_(6919922702).jpg",
+          "basis_summary": "Exact file record carries an explicit CC0 dedication."
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?oldid=1216473279",
+          "basis_summary": "Pinned source-description revision records the author, staged context and rights template."
+        }
+      ],
+      "notices": [
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status."
+      ],
+      "id": "C002",
+      "filename": "media/C002.jpg",
+      "sha256": "266baec7c43385be17f4ed5181797f6da5383317d0c28f4161c4b8a8d1f07306",
+      "width": 3888,
+      "height": 2592,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    },
+    {
+      "source_family": "Commons CC0 photograph",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tomfrancis2025.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Tomfrancis2025.jpg",
+      "download_method": "GET",
+      "creator": "Locust Valley",
+      "title": "Blood-covered stage performer",
+      "original_title": "Tomfrancis2025.jpg",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "public_domain_basis": null,
+      "jurisdiction": "worldwide waiver to extent permitted",
+      "retrieved_at": "2026-11-05T14:04:31.751858+00:00",
+      "source_record": {
+        "commons_page_id": 159692463,
+        "revision_id": 1250688251,
+        "revision_timestamp": "2026-07-22T21:56:51Z",
+        "file_timestamp": "2025-02-13T15:27:40Z",
+        "source_sha1_verified": "a5c589c14ba6e5c647fa36d3feb9fd11b96dcb8a",
+        "credited_upstream_urls": []
+      },
+      "staged_context": "Source identifies actor Tom Francis taking bows in the stage production Sunset Boulevard, covered in fake blood.",
+      "visual_description": "A shirtless male stage performer stands at the curtain call with theatrical blood covering his face, chest and abdomen.",
+      "film": null,
+      "transformations": [
+        "Exact Commons original file copied without re-encoding, cropping or resizing."
+      ],
+      "tags": [
+        "color",
+        "theater",
+        "fake_blood",
+        "bloodied_character"
+      ],
+      "severity": "strong",
+      "rights_review_status": "cc0_basis_verified_other_rights_pending",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Tomfrancis2025.jpg",
+          "basis_summary": "Exact file record carries an explicit CC0 dedication."
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?oldid=1250688251",
+          "basis_summary": "Pinned source-description revision records the author, staged context and rights template."
+        }
+      ],
+      "notices": [
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status."
+      ],
+      "id": "C003",
+      "filename": "media/C003.jpg",
+      "sha256": "d34476251194ba1c9d9d2c6afe2dbd570fefcfc62237a3c9947b827547fba2bc",
+      "width": 1179,
+      "height": 1491,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    },
+    {
+      "source_family": "U.S. government staged-training photograph",
+      "source_page": "https://commons.wikimedia.org/wiki/File:IPAC_personnel_go_down_with_fake_gunshots_110830-M-UP717-063.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/IPAC_personnel_go_down_with_fake_gunshots_110830-M-UP717-063.jpg",
+      "download_method": "GET",
+      "creator": "Lance Cpl. Erica Kirsop",
+      "title": "Simulated gunshot casualty against a wall",
+      "original_title": "IPAC personnel go down with fake gunshots 110830-M-UP717-063.jpg",
+      "license": "Public domain",
+      "license_url": null,
+      "public_domain_basis": "U.S. federal employee photograph made in official military duties; exact Commons record credits the military photographer and carries a PD-USGov military template. U.S. copyright claim under 17 USC 105; other jurisdictions unreviewed.",
+      "jurisdiction": "United States",
+      "retrieved_at": "2026-11-05T13:59:08.451216+00:00",
+      "source_record": {
+        "commons_page_id": 56983068,
+        "revision_id": 1211959045,
+        "revision_timestamp": "2026-05-10T21:21:30Z",
+        "file_timestamp": "2017-03-10T19:54:33Z",
+        "source_sha1_verified": "9de5419a34097e0df2d9711356e1030beb322d1f",
+        "credited_upstream_urls": [
+          "https://www.dvidshub.net/image/450567/ipac-personnel-go-down-with-fake-gunshots"
+        ]
+      },
+      "staged_context": "DVIDS identifies this exact VIRIN as an active-shooter mass-casualty drill at Marine Corps Air Station Miramar.",
+      "visual_description": "A seated woman role player leans against an indoor wall with fake blood on her arm and clothing.",
+      "film": null,
+      "transformations": [
+        "Exact Commons original file copied without re-encoding, cropping or resizing."
+      ],
+      "tags": [
+        "color",
+        "casualty_simulation",
+        "fake_gunshot",
+        "aftermath",
+        "moderate_control"
+      ],
+      "severity": "moderate",
+      "rights_review_status": "us_public_domain_redistribution_review_required",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:IPAC_personnel_go_down_with_fake_gunshots_110830-M-UP717-063.jpg",
+          "basis_summary": "Exact file record carries a PD-USGov military declaration and credited government source."
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?oldid=1211959045",
+          "basis_summary": "Pinned source-description revision records the author, staged context and rights template."
+        },
+        {
+          "url": "https://www.dvidshub.net/image/450567/ipac-personnel-go-down-with-fake-gunshots",
+          "basis_summary": "Credited upstream source for this exact photograph; see Commons record for archival or mirrored attribution."
+        },
+        {
+          "url": "https://www.dvidshub.net/about/copyright",
+          "basis_summary": "Government-work status is limited to U.S. copyright; publicity, privacy, marks and nonendorsement conditions still apply."
+        }
+      ],
+      "notices": [
+        "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status.",
+        "Keep the simulated-training context; do not portray participants as real attack victims."
+      ],
+      "id": "C004",
+      "filename": "media/C004.jpg",
+      "sha256": "865b1ac8949628e3b609cf49a1dbd7ec350e99d4cb4097982ba8c88b2fd4f104",
+      "width": 2336,
+      "height": 3504,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    },
+    {
+      "source_family": "U.S. government staged-training photograph",
+      "source_page": "https://commons.wikimedia.org/wiki/File:18th_Med_group_Moulage_130424-F-GV347-032.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/18th_Med_group_Moulage_130424-F-GV347-032.jpg",
+      "download_method": "GET",
+      "creator": "Airman 1st Class Keith James",
+      "title": "Large neck-wound makeup application",
+      "original_title": "18th Med group Moulage 130424-F-GV347-032.jpg",
+      "license": "Public domain",
+      "license_url": null,
+      "public_domain_basis": "U.S. federal employee photograph made in official military duties; exact Commons record credits the military photographer and carries a PD-USGov military template. U.S. copyright claim under 17 USC 105; other jurisdictions unreviewed.",
+      "jurisdiction": "United States",
+      "retrieved_at": "2026-11-05T13:51:11.071789+00:00",
+      "source_record": {
+        "commons_page_id": 39866321,
+        "revision_id": 1092981852,
+        "revision_timestamp": "2025-09-29T23:43:10Z",
+        "file_timestamp": "2015-04-30T00:11:52Z",
+        "source_sha1_verified": "355b508e77fb9e960c656175bc427b8a667c7911",
+        "credited_upstream_urls": [
+          "https://www.dvidshub.net/image/934862"
+        ]
+      },
+      "staged_context": "The source describes stage makeup applied during an emergency-management exercise at Kadena Air Base.",
+      "visual_description": "A technician applies theatrical blood to a large open-neck wound prosthetic on a seated man.",
+      "film": null,
+      "transformations": [
+        "Exact Commons original file copied without re-encoding, cropping or resizing."
+      ],
+      "tags": [
+        "color",
+        "neck_wound",
+        "moulage",
+        "makeup_application"
+      ],
+      "severity": "strong",
+      "rights_review_status": "us_public_domain_redistribution_review_required",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:18th_Med_group_Moulage_130424-F-GV347-032.jpg",
+          "basis_summary": "Exact file record carries a PD-USGov military declaration and credited government source."
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?oldid=1092981852",
+          "basis_summary": "Pinned source-description revision records the author, staged context and rights template."
+        },
+        {
+          "url": "https://www.dvidshub.net/image/934862",
+          "basis_summary": "Credited upstream source for this exact photograph; see Commons record for archival or mirrored attribution."
+        },
+        {
+          "url": "https://www.dvidshub.net/about/copyright",
+          "basis_summary": "Government-work status is limited to U.S. copyright; publicity, privacy, marks and nonendorsement conditions still apply."
+        }
+      ],
+      "notices": [
+        "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status.",
+        "Keep the simulated-training context; do not portray participants as real attack victims."
+      ],
+      "id": "C005",
+      "filename": "media/C005.jpg",
+      "sha256": "7494e6801d3dfb7f4e39fa33db7600d34bc9e345712b46a1247d7c745a14e421",
+      "width": 2784,
+      "height": 1848,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    },
+    {
+      "source_family": "U.S. government staged-training photograph",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Active_shooter_exercise_at_Navy_EOD_school_131203-F-oc707-006.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Active_shooter_exercise_at_Navy_EOD_school_131203-F-oc707-006.jpg",
+      "download_method": "GET",
+      "creator": "Samuel King Jr.",
+      "title": "Bloodied scalp and facial wound effects",
+      "original_title": "Active shooter exercise at Navy EOD school 131203-F-oc707-006.jpg",
+      "license": "Public domain",
+      "license_url": null,
+      "public_domain_basis": "U.S. federal employee photograph made in official military duties; exact Commons record credits the military photographer and carries a PD-USGov military template. U.S. copyright claim under 17 USC 105; other jurisdictions unreviewed.",
+      "jurisdiction": "United States",
+      "retrieved_at": "2026-11-05T14:02:16.046704+00:00",
+      "source_record": {
+        "commons_page_id": 39205976,
+        "revision_id": 1057043788,
+        "revision_timestamp": "2025-07-13T21:49:55Z",
+        "file_timestamp": "2015-03-25T17:26:29Z",
+        "source_sha1_verified": "ddf197dd4f1ea149ba114e57f1810535ba52efc9",
+        "credited_upstream_urls": [
+          "https://www.dvidshub.net/image/1065694"
+        ]
+      },
+      "staged_context": "The source explicitly describes a simulated victim prepared by a moulage team before a Navy EOD-school active-shooter exercise.",
+      "visual_description": "A makeup technician works on a man with extensive wet-looking theatrical blood and prosthetic injury detail across his scalp and face.",
+      "film": null,
+      "transformations": [
+        "Exact Commons original file copied without re-encoding, cropping or resizing."
+      ],
+      "tags": [
+        "color",
+        "head_wound",
+        "fake_blood",
+        "moulage"
+      ],
+      "severity": "strong",
+      "rights_review_status": "us_public_domain_redistribution_review_required",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Active_shooter_exercise_at_Navy_EOD_school_131203-F-oc707-006.jpg",
+          "basis_summary": "Exact file record carries a PD-USGov military declaration and credited government source."
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?oldid=1057043788",
+          "basis_summary": "Pinned source-description revision records the author, staged context and rights template."
+        },
+        {
+          "url": "https://www.dvidshub.net/image/1065694",
+          "basis_summary": "Credited upstream source for this exact photograph; see Commons record for archival or mirrored attribution."
+        },
+        {
+          "url": "https://www.dvidshub.net/about/copyright",
+          "basis_summary": "Government-work status is limited to U.S. copyright; publicity, privacy, marks and nonendorsement conditions still apply."
+        }
+      ],
+      "notices": [
+        "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status.",
+        "Keep the simulated-training context; do not portray participants as real attack victims."
+      ],
+      "id": "C006",
+      "filename": "media/C006.jpg",
+      "sha256": "86b01c9b25fd780971357b6cfc1438cf56558b35600419726efd4908f1f816b7",
+      "width": 1392,
+      "height": 2100,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    },
+    {
+      "source_family": "U.S. government staged-training photograph",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Active_shooter_exercise_allows_for_safe_training_140827-M-OB827-004.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Active_shooter_exercise_allows_for_safe_training_140827-M-OB827-004.jpg",
+      "download_method": "GET",
+      "creator": "Cpl. Christopher Johns",
+      "title": "Simulated chest-gunshot victim on floor",
+      "original_title": "Active shooter exercise allows for safe training 140827-M-OB827-004.jpg",
+      "license": "Public domain",
+      "license_url": null,
+      "public_domain_basis": "U.S. federal employee photograph made in official military duties; exact Commons record credits the military photographer and carries a PD-USGov military template. U.S. copyright claim under 17 USC 105; other jurisdictions unreviewed.",
+      "jurisdiction": "United States",
+      "retrieved_at": "2026-11-05T14:02:21.442314+00:00",
+      "source_record": {
+        "commons_page_id": 45224711,
+        "revision_id": 1005224459,
+        "revision_timestamp": "2025-03-04T10:23:21Z",
+        "file_timestamp": "2015-11-24T20:14:10Z",
+        "source_sha1_verified": "f2208d1abf95f8b7e11620082b6730afc9aa00c0",
+        "credited_upstream_urls": [
+          "https://www.dvidshub.net/image/1528612"
+        ]
+      },
+      "staged_context": "The source identifies a mock victim prepared for a controlled active-shooter exercise at Marine Corps Air Station Miramar.",
+      "visual_description": "A shirtless, tattooed man lies on the floor with a large bloody chest-wound effect.",
+      "film": null,
+      "transformations": [
+        "Exact Commons original file copied without re-encoding, cropping or resizing."
+      ],
+      "tags": [
+        "color",
+        "chest_wound",
+        "fake_gunshot",
+        "aftermath"
+      ],
+      "severity": "strong",
+      "rights_review_status": "us_public_domain_redistribution_review_required",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Active_shooter_exercise_allows_for_safe_training_140827-M-OB827-004.jpg",
+          "basis_summary": "Exact file record carries a PD-USGov military declaration and credited government source."
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?oldid=1005224459",
+          "basis_summary": "Pinned source-description revision records the author, staged context and rights template."
+        },
+        {
+          "url": "https://www.dvidshub.net/image/1528612",
+          "basis_summary": "Credited upstream source for this exact photograph; see Commons record for archival or mirrored attribution."
+        },
+        {
+          "url": "https://www.dvidshub.net/about/copyright",
+          "basis_summary": "Government-work status is limited to U.S. copyright; publicity, privacy, marks and nonendorsement conditions still apply."
+        }
+      ],
+      "notices": [
+        "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status.",
+        "Keep the simulated-training context; do not portray participants as real attack victims."
+      ],
+      "id": "C007",
+      "filename": "media/C007.jpg",
+      "sha256": "31bf66fb2cd0c9f8e3bc897de6143d2cfc43ecd86614369f295d3fd2558c94c8",
+      "width": 5442,
+      "height": 3628,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    },
+    {
+      "source_family": "U.S. government staged-training photograph",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Airmen_see_opportunity_for_training_120312-F-ZT401-090.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Airmen_see_opportunity_for_training_120312-F-ZT401-090.jpg",
+      "download_method": "GET",
+      "creator": "Airman 1st Class Brooke Beers",
+      "title": "Pencil-through-brow injury effect",
+      "original_title": "Airmen see opportunity for training 120312-F-ZT401-090.jpg",
+      "license": "Public domain",
+      "license_url": null,
+      "public_domain_basis": "U.S. federal employee photograph made in official military duties; exact Commons record credits the military photographer and carries a PD-USGov military template. U.S. copyright claim under 17 USC 105; other jurisdictions unreviewed.",
+      "jurisdiction": "United States",
+      "retrieved_at": "2026-11-05T14:02:39.794890+00:00",
+      "source_record": {
+        "commons_page_id": 55125514,
+        "revision_id": 1022962706,
+        "revision_timestamp": "2025-04-20T14:48:14Z",
+        "file_timestamp": "2017-01-18T19:35:29Z",
+        "source_sha1_verified": "ee8c5390a7c821e7a08def727107d957504bae3d",
+        "credited_upstream_urls": [
+          "https://www.dvidshub.net/image/542497/airmen-see-opportunity-training"
+        ]
+      },
+      "staged_context": "The source expressly identifies a simulated pencil wound and fake blood during a Kadena readiness exercise.",
+      "visual_description": "Close view of a pencil prop beside a man’s eye with a bloody brow injury as more fake blood is applied.",
+      "film": null,
+      "transformations": [
+        "Exact Commons original file copied without re-encoding, cropping or resizing."
+      ],
+      "tags": [
+        "color",
+        "eye_wound",
+        "foreign_object_effect",
+        "fake_blood"
+      ],
+      "severity": "strong",
+      "rights_review_status": "us_public_domain_redistribution_review_required",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Airmen_see_opportunity_for_training_120312-F-ZT401-090.jpg",
+          "basis_summary": "Exact file record carries a PD-USGov military declaration and credited government source."
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?oldid=1022962706",
+          "basis_summary": "Pinned source-description revision records the author, staged context and rights template."
+        },
+        {
+          "url": "https://www.dvidshub.net/image/542497/airmen-see-opportunity-training",
+          "basis_summary": "Credited upstream source for this exact photograph; see Commons record for archival or mirrored attribution."
+        },
+        {
+          "url": "https://www.dvidshub.net/about/copyright",
+          "basis_summary": "Government-work status is limited to U.S. copyright; publicity, privacy, marks and nonendorsement conditions still apply."
+        }
+      ],
+      "notices": [
+        "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status.",
+        "Keep the simulated-training context; do not portray participants as real attack victims."
+      ],
+      "id": "C008",
+      "filename": "media/C008.jpg",
+      "sha256": "4871fbbfd1c14c51404c3bffdb5253a937f4f4652797967a1b24e9f916201cfc",
+      "width": 2120,
+      "height": 3184,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    },
+    {
+      "source_family": "U.S. government staged-training photograph",
+      "source_page": "https://commons.wikimedia.org/wiki/File:A_Combat_Control_School_student_prepares_an_acting_mutilated_soldier_lying_with_a_severed-leg_decoy._The_students_are_participating_in_first_aid_training_before_becoming_a_Red_Beret_-_DPLA_-_7950a745e96251fc15820434afb17fe4.jpeg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/A_Combat_Control_School_student_prepares_an_acting_mutilated_soldier_lying_with_a_severed-leg_decoy._The_students_are_participating_in_first_aid_training_before_becoming_a_Red_Beret_-_DPLA_-_7950a745e96251fc15820434afb17fe4.jpeg",
+      "download_method": "GET",
+      "creator": "TSGT Ken Hammond / U.S. Department of Defense",
+      "title": "Severed-leg decoy in woodland exercise",
+      "original_title": "A Combat Control School student prepares an acting mutilated soldier lying with a severed-leg decoy. The students are participating in first aid training before becoming a Red Beret - DPLA - 7950a745e96251fc15820434afb17fe4.jpeg",
+      "license": "Public domain",
+      "license_url": null,
+      "public_domain_basis": "U.S. federal employee photograph made in official military duties; exact Commons record credits the military photographer and carries a PD-USGov military template. U.S. copyright claim under 17 USC 105; other jurisdictions unreviewed.",
+      "jurisdiction": "United States",
+      "retrieved_at": "2026-11-05T14:02:46.828007+00:00",
+      "source_record": {
+        "commons_page_id": 96898843,
+        "revision_id": 1010822316,
+        "revision_timestamp": "2025-03-17T13:45:03Z",
+        "file_timestamp": "2020-11-25T23:23:04Z",
+        "source_sha1_verified": "bb1f85cf337b31d89f2d5c327ab0fdc37ad0f605",
+        "credited_upstream_urls": [
+          "http://catalog.archives.gov/id/6365942"
+        ]
+      },
+      "staged_context": "The archival description identifies an acting injured soldier, severed-leg decoy and Combat Control School first-aid training.",
+      "visual_description": "A staged severed-leg prop lies prominently in the foreground while a trainee attends a casualty actor in woodland.",
+      "film": null,
+      "transformations": [
+        "Exact Commons original file copied without re-encoding, cropping or resizing."
+      ],
+      "tags": [
+        "color",
+        "severed_limb_prop",
+        "casualty_simulation",
+        "aftermath"
+      ],
+      "severity": "strong",
+      "rights_review_status": "us_public_domain_redistribution_review_required",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:A_Combat_Control_School_student_prepares_an_acting_mutilated_soldier_lying_with_a_severed-leg_decoy._The_students_are_participating_in_first_aid_training_before_becoming_a_Red_Beret_-_DPLA_-_7950a745e96251fc15820434afb17fe4.jpeg",
+          "basis_summary": "Exact file record carries a PD-USGov military declaration and credited government source."
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?oldid=1010822316",
+          "basis_summary": "Pinned source-description revision records the author, staged context and rights template."
+        },
+        {
+          "url": "https://www.dvidshub.net/about/copyright",
+          "basis_summary": "Government-work status is limited to U.S. copyright; publicity, privacy, marks and nonendorsement conditions still apply."
+        }
+      ],
+      "notices": [
+        "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status.",
+        "Keep the simulated-training context; do not portray participants as real attack victims."
+      ],
+      "id": "C009",
+      "filename": "media/C009.jpeg",
+      "sha256": "c72d3304220ac00bb670b8678276ebc2ceacefb78c150a4754f0ca5391175a36",
+      "width": 2820,
+      "height": 1890,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    },
+    {
+      "source_family": "U.S. government staged-training photograph",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Leg_moulage.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Leg_moulage.jpg",
+      "download_method": "GET",
+      "creator": "U.S. Air Force photo/Staff Sgt. Kristin Ruleau",
+      "title": "Exposed thigh-wound prosthetic",
+      "original_title": "Leg moulage.jpg",
+      "license": "Public domain",
+      "license_url": null,
+      "public_domain_basis": "U.S. federal employee photograph made in official military duties; exact Commons record credits the military photographer and carries a PD-USGov military template. U.S. copyright claim under 17 USC 105; other jurisdictions unreviewed.",
+      "jurisdiction": "United States",
+      "retrieved_at": "2026-11-05T14:03:07.565956+00:00",
+      "source_record": {
+        "commons_page_id": 4157235,
+        "revision_id": 1269241344,
+        "revision_timestamp": "2026-08-29T12:25:40Z",
+        "file_timestamp": "2011-12-29T05:45:06Z",
+        "source_sha1_verified": "2cedd9cbf2b4cc5068fa7c36e136a4e311f5b2b5",
+        "credited_upstream_urls": [
+          "http://www.spangdahlem.af.mil/shared/media/photodb/photos/080422-F-2014R-007.JPG"
+        ]
+      },
+      "staged_context": "The Air Force caption identifies a newly applied moulage injury during Exercise Saber Crown.",
+      "visual_description": "A uniformed man looks down at a large red wound effect visible through a torn trouser leg.",
+      "film": null,
+      "transformations": [
+        "Exact Commons original file copied without re-encoding, cropping or resizing."
+      ],
+      "tags": [
+        "color",
+        "leg_wound",
+        "moulage",
+        "torn_clothing"
+      ],
+      "severity": "strong",
+      "rights_review_status": "us_public_domain_redistribution_review_required",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Leg_moulage.jpg",
+          "basis_summary": "Exact file record carries a PD-USGov military declaration and credited government source."
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?oldid=1269241344",
+          "basis_summary": "Pinned source-description revision records the author, staged context and rights template."
+        },
+        {
+          "url": "https://www.dvidshub.net/about/copyright",
+          "basis_summary": "Government-work status is limited to U.S. copyright; publicity, privacy, marks and nonendorsement conditions still apply."
+        }
+      ],
+      "notices": [
+        "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status.",
+        "Keep the simulated-training context; do not portray participants as real attack victims."
+      ],
+      "id": "C010",
+      "filename": "media/C010.jpg",
+      "sha256": "f73bd2d482267a502b287da687b540843995b8b8c4176cf28ed9172b692cc941",
+      "width": 1196,
+      "height": 1800,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    },
+    {
+      "source_family": "U.S. government staged-training photograph",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Glass_moulage.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Glass_moulage.jpg",
+      "download_method": "GET",
+      "creator": "U.S. Air Force photo/Staff Sgt. Kristin Ruleau",
+      "title": "Glass-shard facial laceration effect",
+      "original_title": "Glass moulage.jpg",
+      "license": "Public domain",
+      "license_url": null,
+      "public_domain_basis": "U.S. federal employee photograph made in official military duties; exact Commons record credits the military photographer and carries a PD-USGov military template. U.S. copyright claim under 17 USC 105; other jurisdictions unreviewed.",
+      "jurisdiction": "United States",
+      "retrieved_at": "2026-11-05T14:03:11.556426+00:00",
+      "source_record": {
+        "commons_page_id": 4157224,
+        "revision_id": 1274061431,
+        "revision_timestamp": "2026-09-08T20:09:13Z",
+        "file_timestamp": "2008-06-03T04:03:44Z",
+        "source_sha1_verified": "5c937d50256d9f9a584c0a55b18e0dbe93b170cf",
+        "credited_upstream_urls": [
+          "http://www.spangdahlem.af.mil/shared/media/photodb/photos/080422-F-2014R-057.JPG"
+        ]
+      },
+      "staged_context": "The Air Force caption explicitly describes glass-shard facial laceration moulage during Exercise Saber Crown. The subject’s age is not verified.",
+      "visual_description": "A technician adjusts a facial injury effect with protruding artificial glass, red cheek cuts and blood near the forehead.",
+      "film": null,
+      "transformations": [
+        "Exact Commons original file copied without re-encoding, cropping or resizing."
+      ],
+      "tags": [
+        "color",
+        "facial_laceration",
+        "glass_prop",
+        "moulage",
+        "age_unverified"
+      ],
+      "severity": "strong",
+      "rights_review_status": "us_public_domain_redistribution_review_required",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Glass_moulage.jpg",
+          "basis_summary": "Exact file record carries a PD-USGov military declaration and credited government source."
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?oldid=1274061431",
+          "basis_summary": "Pinned source-description revision records the author, staged context and rights template."
+        },
+        {
+          "url": "https://www.dvidshub.net/about/copyright",
+          "basis_summary": "Government-work status is limited to U.S. copyright; publicity, privacy, marks and nonendorsement conditions still apply."
+        }
+      ],
+      "notices": [
+        "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status.",
+        "Keep the simulated-training context; do not portray participants as real attack victims."
+      ],
+      "id": "C011",
+      "filename": "media/C011.jpg",
+      "sha256": "4e283930b5572f9252ae47a344c73f9ed91357cfe42c9008763dec1d72313474",
+      "width": 1800,
+      "height": 1196,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    },
+    {
+      "source_family": "U.S. government staged-training photograph",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Moulage_makers.png",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Moulage_makers.png",
+      "download_method": "GET",
+      "creator": "U.S. Air Force/Samuel King Jr.",
+      "title": "Scalp and chest casualty makeup",
+      "original_title": "Moulage makers.png",
+      "license": "Public domain",
+      "license_url": null,
+      "public_domain_basis": "U.S. federal employee photograph made in official military duties; exact Commons record credits the military photographer and carries a PD-USGov military template. U.S. copyright claim under 17 USC 105; other jurisdictions unreviewed.",
+      "jurisdiction": "United States",
+      "retrieved_at": "2026-11-05T14:03:27.239701+00:00",
+      "source_record": {
+        "commons_page_id": 86056549,
+        "revision_id": 1010446911,
+        "revision_timestamp": "2025-03-16T16:02:54Z",
+        "file_timestamp": "2020-01-18T19:39:26Z",
+        "source_sha1_verified": "3bf48caa5b7ac75c198579e3f4fccd744d0bd8ef",
+        "credited_upstream_urls": [
+          "https://www.eglin.af.mil/News/Photos/igphoto/2002049202/"
+        ]
+      },
+      "staged_context": "The Air Force source describes latex makeup and simulated victims prepared for a mass-casualty exercise.",
+      "visual_description": "A technician applies a bloody scalp effect to a shirtless man who also has a prominent fake chest wound.",
+      "film": null,
+      "transformations": [
+        "Exact Commons original file copied without re-encoding, cropping or resizing."
+      ],
+      "tags": [
+        "color",
+        "scalp_wound",
+        "chest_wound",
+        "makeup_application"
+      ],
+      "severity": "strong",
+      "rights_review_status": "us_public_domain_redistribution_review_required",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Moulage_makers.png",
+          "basis_summary": "Exact file record carries a PD-USGov military declaration and credited government source."
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?oldid=1010446911",
+          "basis_summary": "Pinned source-description revision records the author, staged context and rights template."
+        },
+        {
+          "url": "https://www.eglin.af.mil/News/Photos/igphoto/2002049202/",
+          "basis_summary": "Credited upstream source for this exact photograph; see Commons record for archival or mirrored attribution."
+        },
+        {
+          "url": "https://www.dvidshub.net/about/copyright",
+          "basis_summary": "Government-work status is limited to U.S. copyright; publicity, privacy, marks and nonendorsement conditions still apply."
+        }
+      ],
+      "notices": [
+        "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status.",
+        "Keep the simulated-training context; do not portray participants as real attack victims."
+      ],
+      "id": "C012",
+      "filename": "media/C012.png",
+      "sha256": "8172bfe77cf80297aa1b01a9ac3a0a0580644e7f3f6e70eef8fc4e1a77d25e9b",
+      "width": 3000,
+      "height": 2073,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    },
+    {
+      "source_family": "U.S. government staged-training photograph",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Moulage_makers_2.png",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Moulage_makers_2.png",
+      "download_method": "GET",
+      "creator": "U.S. Air Force/Samuel King Jr.",
+      "title": "Large upper-back wound effect",
+      "original_title": "Moulage makers 2.png",
+      "license": "Public domain",
+      "license_url": null,
+      "public_domain_basis": "U.S. federal employee photograph made in official military duties; exact Commons record credits the military photographer and carries a PD-USGov military template. U.S. copyright claim under 17 USC 105; other jurisdictions unreviewed.",
+      "jurisdiction": "United States",
+      "retrieved_at": "2026-11-05T14:03:31.793342+00:00",
+      "source_record": {
+        "commons_page_id": 86058088,
+        "revision_id": 1140316535,
+        "revision_timestamp": "2026-01-02T02:20:59Z",
+        "file_timestamp": "2020-01-18T20:22:28Z",
+        "source_sha1_verified": "4fa6df9c7ccf3167cd31e5661df783bff270f788",
+        "credited_upstream_urls": [
+          "https://www.eglin.af.mil/News/Photos/igphoto/2002049205/"
+        ]
+      },
+      "staged_context": "The Air Force source identifies makeup, injuries and gore created for simulated casualties during an Eglin exercise.",
+      "visual_description": "A makeup technician works on a shirtless man’s upper-back and shoulder wound prosthetic with red exposed-tissue effects.",
+      "film": null,
+      "transformations": [
+        "Exact Commons original file copied without re-encoding, cropping or resizing."
+      ],
+      "tags": [
+        "color",
+        "back_wound",
+        "moulage",
+        "prosthetic_tissue"
+      ],
+      "severity": "strong",
+      "rights_review_status": "us_public_domain_redistribution_review_required",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Moulage_makers_2.png",
+          "basis_summary": "Exact file record carries a PD-USGov military declaration and credited government source."
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?oldid=1140316535",
+          "basis_summary": "Pinned source-description revision records the author, staged context and rights template."
+        },
+        {
+          "url": "https://www.eglin.af.mil/News/Photos/igphoto/2002049205/",
+          "basis_summary": "Credited upstream source for this exact photograph; see Commons record for archival or mirrored attribution."
+        },
+        {
+          "url": "https://www.dvidshub.net/about/copyright",
+          "basis_summary": "Government-work status is limited to U.S. copyright; publicity, privacy, marks and nonendorsement conditions still apply."
+        }
+      ],
+      "notices": [
+        "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status.",
+        "Keep the simulated-training context; do not portray participants as real attack victims."
+      ],
+      "id": "C013",
+      "filename": "media/C013.png",
+      "sha256": "c4063c5e9daa8d728908e2140a34ff4a5f756195918ff821dc67494a3aa464fb",
+      "width": 3000,
+      "height": 2284,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    },
+    {
+      "source_family": "U.S. government staged-training photograph",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nathan_Cecava_attaches_simulated_open_fracture_to_Kevin_Christensen.png",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Nathan_Cecava_attaches_simulated_open_fracture_to_Kevin_Christensen.png",
+      "download_method": "GET",
+      "creator": "U.S. Air Force/Aaron Cram",
+      "title": "Simulated arm fracture",
+      "original_title": "Nathan Cecava attaches simulated open fracture to Kevin Christensen.png",
+      "license": "Public domain",
+      "license_url": null,
+      "public_domain_basis": "U.S. federal employee photograph made in official military duties; exact Commons record credits the military photographer and carries a PD-USGov military template. U.S. copyright claim under 17 USC 105; other jurisdictions unreviewed.",
+      "jurisdiction": "United States",
+      "retrieved_at": "2026-11-05T14:03:36.560939+00:00",
+      "source_record": {
+        "commons_page_id": 86332291,
+        "revision_id": 1022964512,
+        "revision_timestamp": "2025-04-20T14:54:43Z",
+        "file_timestamp": "2020-01-26T16:34:34Z",
+        "source_sha1_verified": "1d3c371dd79a47d4c49025bd7714eaec19f0391a",
+        "credited_upstream_urls": [
+          "https://www.afsoc.af.mil/News/Article-Display/Article/163154/320th-sts-and-353rd-sog-training-exercise/"
+        ]
+      },
+      "staged_context": "The Air Force caption identifies a simulated open fracture and a role-played aircraft-accident survivor.",
+      "visual_description": "A doctor attaches a red open-fracture prosthetic to a man’s upper arm during an outdoor exercise.",
+      "film": null,
+      "transformations": [
+        "Removed 1645882 trailing bytes after PNG IEND; every PNG chunk and decoded pixel preserved. Full original retained in ignored cache."
+      ],
+      "tags": [
+        "color",
+        "open_fracture_effect",
+        "arm_wound",
+        "moulage"
+      ],
+      "severity": "strong",
+      "rights_review_status": "us_public_domain_redistribution_review_required",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Nathan_Cecava_attaches_simulated_open_fracture_to_Kevin_Christensen.png",
+          "basis_summary": "Exact file record carries a PD-USGov military declaration and credited government source."
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?oldid=1022964512",
+          "basis_summary": "Pinned source-description revision records the author, staged context and rights template."
+        },
+        {
+          "url": "https://www.afsoc.af.mil/News/Article-Display/Article/163154/320th-sts-and-353rd-sog-training-exercise/",
+          "basis_summary": "Credited upstream source for this exact photograph; see Commons record for archival or mirrored attribution."
+        },
+        {
+          "url": "https://www.dvidshub.net/about/copyright",
+          "basis_summary": "Government-work status is limited to U.S. copyright; publicity, privacy, marks and nonendorsement conditions still apply."
+        }
+      ],
+      "notices": [
+        "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status.",
+        "Keep the simulated-training context; do not portray participants as real attack victims."
+      ],
+      "source_original_sha256": "435a565183e9f9e4f04c656e9488aacc7402dae82321df6048cbf0b496896e03",
+      "source_original_size_bytes": 4053770,
+      "id": "C014",
+      "filename": "media/C014.png",
+      "sha256": "5eaac60d70d2e351c31f2e63118324747aa730828404b4c163ef1bdba6921f05",
+      "width": 1400,
+      "height": 1000,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    },
+    {
+      "source_family": "U.S. government staged-training photograph",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Moulage_specialists_create_a_bloody_eye_injury_on_the_brow_of_Private_First_Class_(PFC)_John_Lucas_during_Exercise_BRIM_FROST%2787_-_DPLA_-_d11c3414a11d3934752817d944bffdba.jpeg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Moulage_specialists_create_a_bloody_eye_injury_on_the_brow_of_Private_First_Class_%28PFC%29_John_Lucas_during_Exercise_BRIM_FROST%2787_-_DPLA_-_d11c3414a11d3934752817d944bffdba.jpeg",
+      "download_method": "GET",
+      "creator": "Sgt Paul A. Tubridy / U.S. Department of Defense",
+      "title": "Bloody eye injury preparation",
+      "original_title": "Moulage specialists create a bloody eye injury on the brow of Private First Class (PFC) John Lucas during Exercise BRIM FROST'87 - DPLA - d11c3414a11d3934752817d944bffdba.jpeg",
+      "license": "Public domain",
+      "license_url": null,
+      "public_domain_basis": "U.S. federal employee photograph made in official military duties; exact Commons record credits the military photographer and carries a PD-USGov military template. U.S. copyright claim under 17 USC 105; other jurisdictions unreviewed.",
+      "jurisdiction": "United States",
+      "retrieved_at": "2026-11-05T14:03:40.799516+00:00",
+      "source_record": {
+        "commons_page_id": 96354405,
+        "revision_id": 1240730291,
+        "revision_timestamp": "2026-06-29T09:57:29Z",
+        "file_timestamp": "2020-11-20T15:52:45Z",
+        "source_sha1_verified": "c9ce51a1b947175ffd5505b13a6ff201a9170450",
+        "credited_upstream_urls": [
+          "http://catalog.archives.gov/id/6414327"
+        ]
+      },
+      "staged_context": "The archival caption explicitly identifies moulage specialists making a bloody eye injury for Exercise BRIM FROST.",
+      "visual_description": "A close side view shows a uniformed man receiving a red injury effect around his eyebrow and eye.",
+      "film": null,
+      "transformations": [
+        "Exact Commons original file copied without re-encoding, cropping or resizing."
+      ],
+      "tags": [
+        "color",
+        "eye_wound",
+        "moulage",
+        "makeup_application"
+      ],
+      "severity": "strong",
+      "rights_review_status": "us_public_domain_redistribution_review_required",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Moulage_specialists_create_a_bloody_eye_injury_on_the_brow_of_Private_First_Class_(PFC)_John_Lucas_during_Exercise_BRIM_FROST%2787_-_DPLA_-_d11c3414a11d3934752817d944bffdba.jpeg",
+          "basis_summary": "Exact file record carries a PD-USGov military declaration and credited government source."
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?oldid=1240730291",
+          "basis_summary": "Pinned source-description revision records the author, staged context and rights template."
+        },
+        {
+          "url": "https://www.dvidshub.net/about/copyright",
+          "basis_summary": "Government-work status is limited to U.S. copyright; publicity, privacy, marks and nonendorsement conditions still apply."
+        }
+      ],
+      "notices": [
+        "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status.",
+        "Keep the simulated-training context; do not portray participants as real attack victims."
+      ],
+      "id": "C015",
+      "filename": "media/C015.jpeg",
+      "sha256": "663bbbce8da84a817ad429987b3a81d80148e7faf0aa570ebd207ff5df733d41",
+      "width": 1976,
+      "height": 3000,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    },
+    {
+      "source_family": "U.S. government staged-training photograph",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Blood,_guts_and_gore_galore,_Moulage_crew_brings_horror_to_life_140723-A-IX584-092.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Blood%2C_guts_and_gore_galore%2C_Moulage_crew_brings_horror_to_life_140723-A-IX584-092.jpg",
+      "download_method": "GET",
+      "creator": "Spc. Anthony Zane",
+      "title": "Bleeding elbow-wound effect",
+      "original_title": "Blood, guts and gore galore, Moulage crew brings horror to life 140723-A-IX584-092.jpg",
+      "license": "Public domain",
+      "license_url": null,
+      "public_domain_basis": "U.S. federal employee photograph made in official military duties; exact Commons record credits the military photographer and carries a PD-USGov military template. U.S. copyright claim under 17 USC 105; other jurisdictions unreviewed.",
+      "jurisdiction": "United States",
+      "retrieved_at": "2026-11-05T14:03:54.136928+00:00",
+      "source_record": {
+        "commons_page_id": 56873306,
+        "revision_id": 1230891507,
+        "revision_timestamp": "2026-06-13T21:58:18Z",
+        "file_timestamp": "2017-03-07T09:51:03Z",
+        "source_sha1_verified": "c3808d71296ffbbaf7d602b3105960e4e1496db8",
+        "credited_upstream_urls": [
+          "https://www.dvidshub.net/image/1465774/blood-guts-and-gore-galore-moulage-crew-brings-horror-life"
+        ]
+      },
+      "staged_context": "DVIDS describes a role player waiting for a simulated wound to dry during Vibrant Response training.",
+      "visual_description": "A seated role player has a red open elbow-wound effect with drops of fake blood spattered on the floor.",
+      "film": null,
+      "transformations": [
+        "Exact Commons original file copied without re-encoding, cropping or resizing."
+      ],
+      "tags": [
+        "color",
+        "elbow_wound",
+        "fake_blood",
+        "casualty_simulation"
+      ],
+      "severity": "strong",
+      "rights_review_status": "us_public_domain_redistribution_review_required",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Blood,_guts_and_gore_galore,_Moulage_crew_brings_horror_to_life_140723-A-IX584-092.jpg",
+          "basis_summary": "Exact file record carries a PD-USGov military declaration and credited government source."
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?oldid=1230891507",
+          "basis_summary": "Pinned source-description revision records the author, staged context and rights template."
+        },
+        {
+          "url": "https://www.dvidshub.net/image/1465774/blood-guts-and-gore-galore-moulage-crew-brings-horror-life",
+          "basis_summary": "Credited upstream source for this exact photograph; see Commons record for archival or mirrored attribution."
+        },
+        {
+          "url": "https://www.dvidshub.net/about/copyright",
+          "basis_summary": "Government-work status is limited to U.S. copyright; publicity, privacy, marks and nonendorsement conditions still apply."
+        }
+      ],
+      "notices": [
+        "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status.",
+        "Keep the simulated-training context; do not portray participants as real attack victims."
+      ],
+      "id": "C016",
+      "filename": "media/C016.jpg",
+      "sha256": "1cc67878e841407f244067f88448a2ea7f741cb5b7e36986fff630cbf78e8c51",
+      "width": 2462,
+      "height": 3447,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    },
+    {
+      "source_family": "U.S. government staged-training photograph",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Blood,_guts_and_gore_galore,_Moulage_crew_brings_horror_to_life_140723-A-IX584-178.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Blood%2C_guts_and_gore_galore%2C_Moulage_crew_brings_horror_to_life_140723-A-IX584-178.jpg",
+      "download_method": "GET",
+      "creator": "Spc. Anthony Zane",
+      "title": "Bloodied casualty mannequin head",
+      "original_title": "Blood, guts and gore galore, Moulage crew brings horror to life 140723-A-IX584-178.jpg",
+      "license": "Public domain",
+      "license_url": null,
+      "public_domain_basis": "U.S. federal employee photograph made in official military duties; exact Commons record credits the military photographer and carries a PD-USGov military template. U.S. copyright claim under 17 USC 105; other jurisdictions unreviewed.",
+      "jurisdiction": "United States",
+      "retrieved_at": "2026-11-05T14:03:58.786627+00:00",
+      "source_record": {
+        "commons_page_id": 56873344,
+        "revision_id": 1230891529,
+        "revision_timestamp": "2026-06-13T21:58:20Z",
+        "file_timestamp": "2017-03-07T09:51:52Z",
+        "source_sha1_verified": "0f472a3e192a88ff47291abe2f471e795afa0aa7",
+        "credited_upstream_urls": [
+          "https://www.dvidshub.net/image/1465783/blood-guts-and-gore-galore-moulage-crew-brings-horror-life"
+        ]
+      },
+      "staged_context": "DVIDS explicitly identifies a mannequin and airbrushed fake blood prepared for the Vibrant Response exercise.",
+      "visual_description": "A technician airbrushes fake blood onto a mannequin’s face and damaged cheek at a moulage workstation.",
+      "film": null,
+      "transformations": [
+        "Exact Commons original file copied without re-encoding, cropping or resizing."
+      ],
+      "tags": [
+        "color",
+        "mannequin",
+        "facial_wound",
+        "fake_blood"
+      ],
+      "severity": "strong",
+      "rights_review_status": "us_public_domain_redistribution_review_required",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Blood,_guts_and_gore_galore,_Moulage_crew_brings_horror_to_life_140723-A-IX584-178.jpg",
+          "basis_summary": "Exact file record carries a PD-USGov military declaration and credited government source."
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?oldid=1230891529",
+          "basis_summary": "Pinned source-description revision records the author, staged context and rights template."
+        },
+        {
+          "url": "https://www.dvidshub.net/image/1465783/blood-guts-and-gore-galore-moulage-crew-brings-horror-life",
+          "basis_summary": "Credited upstream source for this exact photograph; see Commons record for archival or mirrored attribution."
+        },
+        {
+          "url": "https://www.dvidshub.net/about/copyright",
+          "basis_summary": "Government-work status is limited to U.S. copyright; publicity, privacy, marks and nonendorsement conditions still apply."
+        }
+      ],
+      "notices": [
+        "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status.",
+        "Keep the simulated-training context; do not portray participants as real attack victims."
+      ],
+      "id": "C017",
+      "filename": "media/C017.jpg",
+      "sha256": "791b0db4cf19a36a8800831d506a7862fad9402cb762f0cfb1b4c0d1b840a202",
+      "width": 2034,
+      "height": 2848,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    },
+    {
+      "source_family": "U.S. government staged-training photograph",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Medics_train_for_worst-case_scenario_150520-F-GO396-263.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Medics_train_for_worst-case_scenario_150520-F-GO396-263.jpg",
+      "download_method": "GET",
+      "creator": "Staff Sgt. Brigitte Brantley",
+      "title": "Extensive lower-leg burn effects",
+      "original_title": "Medics train for worst-case scenario 150520-F-GO396-263.jpg",
+      "license": "Public domain",
+      "license_url": null,
+      "public_domain_basis": "U.S. federal employee photograph made in official military duties; exact Commons record credits the military photographer and carries a PD-USGov military template. U.S. copyright claim under 17 USC 105; other jurisdictions unreviewed.",
+      "jurisdiction": "United States",
+      "retrieved_at": "2026-11-05T14:04:03.874176+00:00",
+      "source_record": {
+        "commons_page_id": 40609324,
+        "revision_id": 1141104374,
+        "revision_timestamp": "2026-01-03T12:42:26Z",
+        "file_timestamp": "2015-05-30T23:48:15Z",
+        "source_sha1_verified": "5dda7e84a4e7f46e6ca0edf38d53db4b32e0ce65",
+        "credited_upstream_urls": [
+          "https://www.dvidshub.net/image/1965974"
+        ]
+      },
+      "staged_context": "The Air Force caption identifies a simulated aircraft-accident patient with burn injuries during a response exercise.",
+      "visual_description": "Both lower legs of a staged casualty have large dark burn prosthetics edged with red tissue effects.",
+      "film": null,
+      "transformations": [
+        "Exact Commons original file copied without re-encoding, cropping or resizing."
+      ],
+      "tags": [
+        "color",
+        "burn_effects",
+        "leg_wounds",
+        "casualty_simulation"
+      ],
+      "severity": "strong",
+      "rights_review_status": "us_public_domain_redistribution_review_required",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Medics_train_for_worst-case_scenario_150520-F-GO396-263.jpg",
+          "basis_summary": "Exact file record carries a PD-USGov military declaration and credited government source."
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?oldid=1141104374",
+          "basis_summary": "Pinned source-description revision records the author, staged context and rights template."
+        },
+        {
+          "url": "https://www.dvidshub.net/image/1965974",
+          "basis_summary": "Credited upstream source for this exact photograph; see Commons record for archival or mirrored attribution."
+        },
+        {
+          "url": "https://www.dvidshub.net/about/copyright",
+          "basis_summary": "Government-work status is limited to U.S. copyright; publicity, privacy, marks and nonendorsement conditions still apply."
+        }
+      ],
+      "notices": [
+        "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status.",
+        "Keep the simulated-training context; do not portray participants as real attack victims."
+      ],
+      "id": "C018",
+      "filename": "media/C018.jpg",
+      "sha256": "9433714408a512345cf7e00824383aa1301e3780217d107138260d336cc12100",
+      "width": 4256,
+      "height": 2293,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    },
+    {
+      "source_family": "U.S. government staged-training photograph",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Marine_infantry_seize_MOUT_town_130529-M-HQ478-082.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Marine_infantry_seize_MOUT_town_130529-M-HQ478-082.jpg",
+      "download_method": "GET",
+      "creator": "Lance Cpl. Corey Dabney",
+      "title": "Bloody arm trauma during urban training",
+      "original_title": "Marine infantry seize MOUT town 130529-M-HQ478-082.jpg",
+      "license": "Public domain",
+      "license_url": null,
+      "public_domain_basis": "U.S. federal employee photograph made in official military duties; exact Commons record credits the military photographer and carries a PD-USGov military template. U.S. copyright claim under 17 USC 105; other jurisdictions unreviewed.",
+      "jurisdiction": "United States",
+      "retrieved_at": "2026-11-05T14:04:14.609102+00:00",
+      "source_record": {
+        "commons_page_id": 39213331,
+        "revision_id": 1092929615,
+        "revision_timestamp": "2025-09-29T22:13:17Z",
+        "file_timestamp": "2015-03-26T02:38:40Z",
+        "source_sha1_verified": "2338ff48d1c686a6bed851de36cd935956db0fb0",
+        "credited_upstream_urls": [
+          "https://www.dvidshub.net/image/944870"
+        ]
+      },
+      "staged_context": "The Marine Corps caption describes a role player receiving treatment after a simulated explosive device in urban training.",
+      "visual_description": "A role player sits against a wall while a medic handles a large bloodied arm injury effect.",
+      "film": null,
+      "transformations": [
+        "Exact Commons original file copied without re-encoding, cropping or resizing."
+      ],
+      "tags": [
+        "color",
+        "arm_trauma",
+        "fake_blood",
+        "aftermath"
+      ],
+      "severity": "strong",
+      "rights_review_status": "us_public_domain_redistribution_review_required",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Marine_infantry_seize_MOUT_town_130529-M-HQ478-082.jpg",
+          "basis_summary": "Exact file record carries a PD-USGov military declaration and credited government source."
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?oldid=1092929615",
+          "basis_summary": "Pinned source-description revision records the author, staged context and rights template."
+        },
+        {
+          "url": "https://www.dvidshub.net/image/944870",
+          "basis_summary": "Credited upstream source for this exact photograph; see Commons record for archival or mirrored attribution."
+        },
+        {
+          "url": "https://www.dvidshub.net/about/copyright",
+          "basis_summary": "Government-work status is limited to U.S. copyright; publicity, privacy, marks and nonendorsement conditions still apply."
+        }
+      ],
+      "notices": [
+        "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status.",
+        "Keep the simulated-training context; do not portray participants as real attack victims."
+      ],
+      "id": "C019",
+      "filename": "media/C019.jpg",
+      "sha256": "758f6ebf752a3cbc2dac966bdf21c839b4b607167ad252dfb395528a374d9847",
+      "width": 5184,
+      "height": 3456,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    },
+    {
+      "source_family": "U.S. government staged-training photograph",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Army_Reserve_Soldiers_prepare_moulage_160720-A-PF286-006.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Army_Reserve_Soldiers_prepare_moulage_160720-A-PF286-006.jpg",
+      "download_method": "GET",
+      "creator": "Spc. Quentin Simmons",
+      "title": "Mannequin limb injury on litter",
+      "original_title": "Army Reserve Soldiers prepare moulage 160720-A-PF286-006.jpg",
+      "license": "Public domain",
+      "license_url": null,
+      "public_domain_basis": "U.S. federal employee photograph made in official military duties; exact Commons record credits the military photographer and carries a PD-USGov military template. U.S. copyright claim under 17 USC 105; other jurisdictions unreviewed.",
+      "jurisdiction": "United States",
+      "retrieved_at": "2026-11-05T13:59:20.119041+00:00",
+      "source_record": {
+        "commons_page_id": 57458424,
+        "revision_id": 1065670661,
+        "revision_timestamp": "2025-08-03T16:03:48Z",
+        "file_timestamp": "2017-03-27T19:46:59Z",
+        "source_sha1_verified": "b9987b264f8e71db282569e16fe7486bea1d4afc",
+        "credited_upstream_urls": [
+          "https://www.dvidshub.net/image/2740567/army-reserve-soldiers-prepare-moulage"
+        ]
+      },
+      "staged_context": "DVIDS identifies a mannequin secured to a litter during Warrior Exercise. The foreground injury is a practical effect on the training mannequin.",
+      "visual_description": "A nurse secures a camouflaged casualty mannequin on a litter; a large bloody limb injury effect is visible in the foreground.",
+      "film": null,
+      "transformations": [
+        "Exact Commons original file copied without re-encoding, cropping or resizing."
+      ],
+      "tags": [
+        "color",
+        "mannequin",
+        "moulage",
+        "limb_wound",
+        "litter_straps"
+      ],
+      "severity": "strong",
+      "rights_review_status": "us_public_domain_redistribution_review_required",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Army_Reserve_Soldiers_prepare_moulage_160720-A-PF286-006.jpg",
+          "basis_summary": "Exact file record carries a PD-USGov military declaration and credited government source."
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?oldid=1065670661",
+          "basis_summary": "Pinned source-description revision records the author, staged context and rights template."
+        },
+        {
+          "url": "https://www.dvidshub.net/image/2740567/army-reserve-soldiers-prepare-moulage",
+          "basis_summary": "Credited upstream source for this exact photograph; see Commons record for archival or mirrored attribution."
+        },
+        {
+          "url": "https://www.dvidshub.net/about/copyright",
+          "basis_summary": "Government-work status is limited to U.S. copyright; publicity, privacy, marks and nonendorsement conditions still apply."
+        }
+      ],
+      "notices": [
+        "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+        "Identifiable persons, privacy/publicity rights, insignia, trademarks and production-design rights are not cleared by copyright status.",
+        "Keep the simulated-training context; do not portray participants as real attack victims."
+      ],
+      "id": "C020",
+      "filename": "media/C020.jpg",
+      "sha256": "ff29af8ee142165686c875a1e9e676a8297a7d7576f4d6a4810e5989377a5f6a",
+      "width": 2143,
+      "height": 3000,
+      "dataset_selection_status": "pending_review",
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "reviewed_at": "2026-11-05",
+        "status": "description_checked_against_pixels",
+        "human_selection": "pending_review"
+      }
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "id": "C021",
+      "reason": "Rejected for inadequate original-film image quality by maintainer."
+    },
+    {
+      "id": "C022",
+      "reason": "Rejected for inadequate original-film image quality by maintainer."
+    },
+    {
+      "id": "C023",
+      "reason": "Rejected for inadequate original-film image quality by maintainer."
+    },
+    {
+      "id": "C024",
+      "reason": "Rejected for inadequate original-film image quality by maintainer."
+    },
+    {
+      "id": "C025",
+      "reason": "Rejected for inadequate original-film image quality by maintainer."
+    }
+  ]
+}

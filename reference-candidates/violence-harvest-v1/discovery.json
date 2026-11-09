@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "discoveries": [
+    {
+      "id": "D001",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Fake_blood_on_arm.jpg",
+      "title": "Fake blood on arm.jpg",
+      "creator": "Arbitrarily0",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "discovery_status": "metadata_only_not_downloaded",
+      "visual_review_status": "not_inspected",
+      "reason": "Attribution or share-alike license falls outside this CC0/public-domain download pass; staged context and suitability need review.",
+      "retrieved_at": "2026-11-05"
+    },
+    {
+      "id": "D002",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chicken_John_at_Zombie_Mob.jpg",
+      "title": "Chicken John at Zombie Mob.jpg",
+      "creator": "OrinR (talk). Original uploader was OrinR at en.wikipedia",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "discovery_status": "metadata_only_not_downloaded",
+      "visual_review_status": "not_inspected",
+      "reason": "Attribution or share-alike license falls outside this CC0/public-domain download pass; staged context and suitability need review.",
+      "retrieved_at": "2026-11-05"
+    },
+    {
+      "id": "D003",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bloodywoman.jpg",
+      "title": "Bloodywoman.jpg",
+      "creator": "Mikamatto https://www.flickr.com/people/mickamato/",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "discovery_status": "metadata_only_not_downloaded",
+      "visual_review_status": "not_inspected",
+      "reason": "Attribution or share-alike license falls outside this CC0/public-domain download pass; staged context and suitability need review.",
+      "retrieved_at": "2026-11-05"
+    },
+    {
+      "id": "D004",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Oli_Sykes_at_the_Mean_Fiddler_(Halloween_2006).jpg",
+      "title": "Oli Sykes at the Mean Fiddler (Halloween 2006).jpg",
+      "creator": "Alex",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "discovery_status": "metadata_only_not_downloaded",
+      "visual_review_status": "not_inspected",
+      "reason": "Attribution or share-alike license falls outside this CC0/public-domain download pass; staged context and suitability need review.",
+      "retrieved_at": "2026-11-05"
+    },
+    {
+      "id": "D005",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Me_after_a_%27shaving_accident%27.jpeg",
+      "title": "Me after a 'shaving accident'.jpeg",
+      "creator": "Renamed user sACb6x5Zz8lNYu9btY",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "discovery_status": "metadata_only_not_downloaded",
+      "visual_review_status": "not_inspected",
+      "reason": "Attribution or share-alike license falls outside this CC0/public-domain download pass; staged context and suitability need review.",
+      "retrieved_at": "2026-11-05"
+    },
+    {
+      "id": "D006",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RoyalBloodBldyPrnc.jpg",
+      "title": "RoyalBloodBldyPrnc.jpg",
+      "creator": "Smatprt",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "discovery_status": "metadata_only_not_downloaded",
+      "visual_review_status": "not_inspected",
+      "reason": "Attribution or share-alike license falls outside this CC0/public-domain download pass; staged context and suitability need review.",
+      "retrieved_at": "2026-11-05"
+    },
+    {
+      "id": "D007",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Subject-_RIVER_TAM_(14806319710).jpg",
+      "title": "Subject- RIVER TAM (14806319710).jpg",
+      "creator": "Will Keightley from Santa Fe, USA",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "discovery_status": "metadata_only_not_downloaded",
+      "visual_review_status": "not_inspected",
+      "reason": "Attribution or share-alike license falls outside this CC0/public-domain download pass; staged context and suitability need review.",
+      "retrieved_at": "2026-11-05"
+    },
+    {
+      "id": "D008",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Subject-_RIVER_TAM_(14806284049).jpg",
+      "title": "Subject- RIVER TAM (14806284049).jpg",
+      "creator": "Will Keightley from Santa Fe, USA",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "discovery_status": "metadata_only_not_downloaded",
+      "visual_review_status": "not_inspected",
+      "reason": "Attribution or share-alike license falls outside this CC0/public-domain download pass; staged context and suitability need review.",
+      "retrieved_at": "2026-11-05"
+    }
+  ]
+}
