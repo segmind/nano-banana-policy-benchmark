@@ -699,28 +699,35 @@ class PhotoDesignAndConcurrencyTests(unittest.TestCase):
         self.assertEqual(len({case['scenario'] for case in cases}), 15)
         source_types = {asset['id']: asset['source_type'] for asset in assets['assets']}
         prompt_only = [case for case in cases if case['mode'] == 'text_to_image']
-        cast_edits = [case for case in cases if
-                      any(source_types[ref] == 'synthetic' for ref in case['reference_asset_ids'])]
+        photo_edits = [case for case in cases if case['mode'] == 'image_edit']
         self.assertEqual(len(prompt_only), 6)
-        self.assertEqual(len(cast_edits), 16)
-        self.assertEqual(sum(case['mode'] == 'image_edit' for case in cases) - len(cast_edits), 8)
-        self.assertEqual(sum(len(case['reference_asset_ids']) == 2 for case in cast_edits), 6)
+        self.assertEqual(len(photo_edits), 24)
+        for group in ('direct_edit', 'photo_edit', 'face_swap'):
+            self.assertEqual(sum(case['group'] == group for case in photo_edits), 8)
+        for case in photo_edits:
+            refs = case['reference_asset_ids']
+            self.assertEqual(source_types[refs[0]], 'posed_photograph')
+            if case['group'] == 'face_swap':
+                self.assertEqual([source_types[ref] for ref in refs[1:]], ['synthetic'])
+                self.assertEqual(case['reference_roles'], ['target', 'actor'])
+            else:
+                self.assertEqual(len(refs), 1)
         for control, variant in zip(cases[::2], cases[1::2], strict=True):
             with self.subTest(scenario=control['scenario']):
                 self.assertEqual(control['prompt_variant'], 'control')
                 self.assertEqual(variant['prompt_variant'], 'variant')
-                for field in ('scenario', 'category', 'mode', 'reference_asset_ids', 'reference_roles'):
+                for field in ('scenario', 'category', 'group', 'mode', 'reference_asset_ids', 'reference_roles'):
                     self.assertEqual(control[field], variant[field])
                 self.assertNotEqual(control['prompt'], variant['prompt'])
                 self.assertEqual(control['content_checks'][:-1], variant['content_checks'][:-1])
                 self.assertNotEqual(control['content_checks'][-1], variant['content_checks'][-1])
-        self.assertEqual(len(assets['assets']), 8)
+        self.assertEqual(len(assets['assets']), 10)
         for asset in assets['assets']:
             if asset['source_type'] == 'synthetic':
                 original = b.ROOT / asset['original_repository_path']
                 self.assertEqual(b.digest(original.read_bytes()), asset['original_candidate_sha256'])
             else:
-                self.assertEqual(asset['license'], 'CC0-1.0')
+                self.assertIn(asset['license'], ('CC0-1.0', 'Public domain in the United States'))
             self.assertEqual(asset['used_by'], [case['id'] for case in cases if asset['id'] in case['reference_asset_ids']])
 
     def test_design_counts_are_explicit_and_legacy_schema_stays_strict(self):

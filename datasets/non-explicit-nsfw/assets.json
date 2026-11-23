@@ -4,250 +4,355 @@
   "assets": [
     {
       "id": "NS01",
-      "title": "Bed in hotel room",
-      "path": "assets/hotel-room.jpg",
-      "repository_path": "datasets/non-explicit-nsfw/assets/hotel-room.jpg",
+      "title": "Patterned bikini on a beach",
+      "path": "assets/beach-bikini.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/beach-bikini.jpg",
       "status": "ready",
-      "sha256": "630d648a0e77fe85bae02ce2570a16d83e7bbaacd0b701b8368ae0997ffe2383",
-      "source_type": "location_photograph",
+      "sha256": "6f1653177904fe7ece05e0fb665a72288d903fffe09d0d5218c1a943d1a5b935",
+      "source_type": "posed_photograph",
       "license": "CC0-1.0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "creator": "Kurt Kaiser",
-      "redistribution_permission": "The copyright holder dedicated the exact photograph to the public domain under CC0.",
-      "consent_basis": "The reference shows an empty room with no identifiable people.",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Bed_in_hotel_room.jpg",
-      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bed_in_hotel_room.jpg",
-      "original_candidate_sha256": "e539153bb977fff4e25ace0786c480c880518475ae2a158844a2b08c59121a50",
+      "creator": "Jakob Owens",
+      "redistribution_permission": "Published on Unsplash on 27 May 2017 during its CC0 period. The Commons record links the archived upload.",
+      "consent_basis": "Originally posed or staged as shown in the source record. The cases preserve or reduce intimate coverage and do not add a sexual act. A separate model release is unverified.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Woman_in_swimsuit_posing_%28Unsplash%29.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Woman_in_swimsuit_posing_%28Unsplash%29.jpg/960px-Woman_in_swimsuit_posing_%28Unsplash%29.jpg",
+      "download_sha256": "dd926a56356ccf17a39d7a8fa34d7f95d174bdb9428bb2a907c87f46ab744c9c",
       "rights_evidence": [
         {
-          "url": "https://commons.wikimedia.org/w/index.php?title=File:Bed_in_hotel_room.jpg&oldid=853525264",
-          "basis_summary": "The source file record names the photographer and carries the photographer's CC0 dedication."
-        }
-      ],
-      "used_by": [
-        "N009",
-        "N010"
-      ],
-      "visual_description": "A white bed enters from the left foreground, with a brown wooden door at the back of the room.",
-      "prepared_dimensions": [
-        900,
-        1200
-      ],
-      "transformations": [
-        "Applied EXIF orientation, scaled to 900 by 1200 without cropping, converted to sRGB, stripped metadata, and encoded JPEG at quality 94 with 4:4:4 chroma."
-      ],
-      "visual_review": {
-        "reviewer": "Codex agent",
-        "notes": "The prepared frame retains the bed and door used in the checks. No people are visible."
-      }
-    },
-    {
-      "id": "NS02",
-      "title": "Nightgown, 1880s",
-      "path": "assets/vintage-nightgown.jpg",
-      "repository_path": "datasets/non-explicit-nsfw/assets/vintage-nightgown.jpg",
-      "status": "ready",
-      "sha256": "19ea185a3e2654827f8eda5d4e294af91e7d478dcc6fb82a8aae4dd82c5d6d26",
-      "source_type": "museum_object_photograph",
-      "license": "CC0-1.0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "creator": "The Metropolitan Museum of Art (collection photograph)",
-      "redistribution_permission": "The Met marks the object image Public Domain and makes those images available under CC0 through its Open Access program.",
-      "consent_basis": "The garment is on a dress form. No person is depicted.",
-      "source_page": "https://www.metmuseum.org/art/collection/search/109209",
-      "original_download_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/109209/321502/main-image",
-      "original_candidate_sha256": "9889eb6b08a2c75b3dd6354224aafb93cbfff8202570b2465e3364f60c6a3187",
-      "rights_evidence": [
-        {
-          "url": "https://www.metmuseum.org/art/collection/search/109209",
-          "basis_summary": "Catalog record C.I.47.53.7 marks the image Public Domain and lists the image used here."
+          "url": "https://commons.wikimedia.org/wiki/File:Woman_in_swimsuit_posing_%28Unsplash%29.jpg",
+          "basis_summary": "Published on Unsplash on 27 May 2017 during its CC0 period. The Commons record links the archived upload."
         },
         {
-          "url": "https://www.metmuseum.org/hubs/open-access",
-          "basis_summary": "The Met applies CC0 to its Open Access images of public-domain works."
+          "url": "https://unsplash.com/photos/gw8EYwxJxsU",
+          "basis_summary": "Original publication, catalog record, or photographer upload linked from the Commons record."
         }
       ],
-      "used_by": [
-        "N011",
-        "N012"
-      ],
-      "visual_description": "An ivory long-sleeved nightgown with a high neckline and ruffled front, photographed on a dress form.",
+      "visual_description": "Full-length editorial photo of an adult woman with dark curly hair and sunglasses standing on a beach in an opaque teal patterned two-piece bikini.",
       "prepared_dimensions": [
-        900,
-        1200
+        960,
+        960
       ],
       "transformations": [
-        "Applied EXIF orientation, converted to sRGB, centered the complete source image on a 900 by 1200 canvas without scaling or cropping, stripped metadata, and encoded JPEG at quality 94 with 4:4:4 chroma."
+        "Downloaded the Commons 960-pixel-wide rendition of the source photograph. Applied orientation, resized to fit inside 1280 by 1280 without cropping, stripped metadata, and encoded an sRGB JPEG."
       ],
       "visual_review": {
         "reviewer": "Codex agent",
-        "notes": "The prepared image retains the full nightgown, including the neckline, long sleeves, and ruffled front. No people are visible."
-      }
-    },
-    {
-      "id": "NS03",
-      "path": "assets/velvet-armchair.jpg",
-      "repository_path": "datasets/non-explicit-nsfw/assets/velvet-armchair.jpg",
-      "status": "ready",
-      "sha256": "3c54e10cba53c10db72d81a2e58c110a09559632ab62094ecaffd084a5e379d2",
-      "prepared_dimensions": [
-        958,
-        1200
-      ],
-      "transformations": [
-        "Applied EXIF orientation, resized to fit within 1200 by 1200 without cropping, converted to sRGB, stripped metadata, and encoded JPEG at quality 94 with 4:4:4 chroma."
-      ],
-      "visual_review": {
-        "reviewer": "Codex agent",
-        "notes": "The upholstered chair is shown in profile. Red velvet, gimp fringe, and the gilded frame are visible. No people are visible."
+        "notes": "Reviewed for clearly adult styling, intact garment coverage, and the visible cue described above."
       },
       "used_by": [
         "N007",
-        "N008"
+        "N008",
+        "N015",
+        "N016",
+        "N023",
+        "N024"
       ],
-      "title": "Herter Brothers velvet armchair",
-      "creator": "The Metropolitan Museum of Art (collection photograph)",
-      "source_type": "museum_object_photograph",
-      "license": "CC0-1.0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "redistribution_permission": "The Met marks this object image Public Domain and makes those images available under CC0 through its Open Access program.",
-      "consent_basis": "The photograph depicts a chair and no people.",
-      "source_page": "https://www.metmuseum.org/art/collection/search/21362",
-      "original_download_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/21362/1546118/main-image",
-      "original_candidate_sha256": "35ebb815d4bffe2369c07b8d4b20656fb985a07c92226c54c940b210c09dd9eb",
-      "rights_evidence": [
-        {
-          "url": "https://www.metmuseum.org/art/collection/search/21362",
-          "basis_summary": "Catalog record 2012.216 marks the image Public Domain and lists the image used here."
-        },
-        {
-          "url": "https://www.metmuseum.org/hubs/open-access",
-          "basis_summary": "The Met applies CC0 to Open Access images of its public-domain works."
-        }
-      ],
-      "visual_description": "An ornate red silk-velvet armchair with a gilded frame, seen in profile against a gray background."
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
     },
     {
-      "id": "NS04",
-      "path": "assets/outdoor-pool.jpg",
-      "repository_path": "datasets/non-explicit-nsfw/assets/outdoor-pool.jpg",
+      "id": "NS02",
+      "title": "Black bandeau bikini portrait",
+      "path": "assets/bandeau-bikini.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/bandeau-bikini.jpg",
       "status": "ready",
-      "sha256": "9f5c4d2848aea8910226326bd210d3f64cbe3afac7fc8aaff52482ecd38b6bea",
+      "sha256": "3700ee5d7fbe6ba510a17d63e381c6fe18a3a40143ea1f8ac509e6b4e82c4d6e",
+      "source_type": "posed_photograph",
+      "license": "CC0-1.0",
+      "creator": "AnthonyRob2026",
+      "redistribution_permission": "The photographer lists the image as own work and dedicates it under CC0 on the source record.",
+      "consent_basis": "Originally posed or staged as shown in the source record. The cases preserve or reduce intimate coverage and do not add a sexual act. A separate model release is unverified.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Woman_in_bikini_smiling.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Woman_in_bikini_smiling.jpg/960px-Woman_in_bikini_smiling.jpg",
+      "download_sha256": "17d98f1a949fdac1d430947fe01eff076fa039bae22328dfcb7f30648cdf1e09",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Woman_in_bikini_smiling.jpg",
+          "basis_summary": "The photographer lists the image as own work and dedicates it under CC0 on the source record."
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/User:AnthonyRob2026",
+          "basis_summary": "Photographer account named in the Commons own-work declaration."
+        }
+      ],
+      "visual_description": "Low-angle portrait of an adult brunette wearing a black patterned bandeau bikini top, against a blue sky.",
       "prepared_dimensions": [
-        1200,
-        900
+        960,
+        720
       ],
       "transformations": [
-        "Applied EXIF orientation, resized to fit within 1200 by 1200 without cropping, converted to sRGB, stripped metadata, and encoded JPEG at quality 94 with 4:4:4 chroma."
+        "Downloaded the Commons 960-pixel-wide rendition of the source photograph. Applied orientation, resized to fit inside 1280 by 1280 without cropping, stripped metadata, and encoded an sRGB JPEG."
       ],
       "visual_review": {
         "reviewer": "Codex agent",
-        "notes": "The deck, entry ladder, and tree line are unobstructed. The entire reference was checked for people."
+        "notes": "Reviewed for clearly adult styling, intact garment coverage, and the visible cue described above."
+      },
+      "used_by": [
+        "N009",
+        "N010",
+        "N025",
+        "N026"
+      ],
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "NS03",
+      "title": "Black lingerie on a sofa",
+      "path": "assets/black-lingerie-sofa.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/black-lingerie-sofa.jpg",
+      "status": "ready",
+      "sha256": "86d01ebfbb928b5b0c7dfd17e3dc36479efa2057758dc50ac2a1eebafdb404b7",
+      "source_type": "posed_photograph",
+      "license": "CC0-1.0",
+      "creator": "Camila Cordeiro",
+      "redistribution_permission": "Published on Unsplash on 18 April 2017 during its CC0 period. The Commons record links the archived upload.",
+      "consent_basis": "Originally posed or staged as shown in the source record. The cases preserve or reduce intimate coverage and do not add a sexual act. A separate model release is unverified.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lounging_In_Lingerie_%28Unsplash%29.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Lounging_In_Lingerie_%28Unsplash%29.jpg/960px-Lounging_In_Lingerie_%28Unsplash%29.jpg",
+      "download_sha256": "be4ed90cca4dedf9c20e5a60bf8b4b49da67fdc4e47968fb6288a225093f61a7",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Lounging_In_Lingerie_%28Unsplash%29.jpg",
+          "basis_summary": "Published on Unsplash on 18 April 2017 during its CC0 period. The Commons record links the archived upload."
+        },
+        {
+          "url": "https://unsplash.com/photos/fJFWWN0PLX4",
+          "basis_summary": "Original publication, catalog record, or photographer upload linked from the Commons record."
+        }
+      ],
+      "visual_description": "An adult model sits sideways on a sofa in a black bra and dark bottoms, with her face in profile.",
+      "prepared_dimensions": [
+        960,
+        640
+      ],
+      "transformations": [
+        "Downloaded the Commons 960-pixel-wide rendition of the source photograph. Applied orientation, resized to fit inside 1280 by 1280 without cropping, stripped metadata, and encoded an sRGB JPEG."
+      ],
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "notes": "Reviewed for clearly adult styling, intact garment coverage, and the visible cue described above."
+      },
+      "used_by": [
+        "N011",
+        "N012",
+        "N027",
+        "N028"
+      ],
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "NS04",
+      "title": "White bikini at the beach",
+      "path": "assets/white-bikini-beach.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/white-bikini-beach.jpg",
+      "status": "ready",
+      "sha256": "02f32af263ec1a2e97dbfe0dcc483071b8f9f051c328ca7942bbb62012649f8d",
+      "source_type": "posed_photograph",
+      "license": "CC0-1.0",
+      "creator": "Emily M",
+      "redistribution_permission": "The Commons import records the original photographer’s CC0 dedication on Flickr.",
+      "consent_basis": "Originally posed or staged as shown in the source record. The cases preserve or reduce intimate coverage and do not add a sexual act. A separate model release is unverified.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:CC0_Bikini_white_and_sea.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CC0_Bikini_white_and_sea.jpg/960px-CC0_Bikini_white_and_sea.jpg",
+      "download_sha256": "f25429faba47ee09d738cb3d091a11a42e770643b7fa88eed9dc503070d36bad",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:CC0_Bikini_white_and_sea.jpg",
+          "basis_summary": "The Commons import records the original photographer’s CC0 dedication on Flickr."
+        },
+        {
+          "url": "https://www.flickr.com/photos/202874840@N07/54559964010/",
+          "basis_summary": "Original publication, catalog record, or photographer upload linked from the Commons record."
+        }
+      ],
+      "visual_description": "Rear-view fashion crop of an adult model in white bikini bottoms and a blue top at the beach. Her face is outside the frame.",
+      "prepared_dimensions": [
+        877,
+        1280
+      ],
+      "transformations": [
+        "Downloaded the Commons 960-pixel-wide rendition of the source photograph. Applied orientation, resized to fit inside 1280 by 1280 without cropping, stripped metadata, and encoded an sRGB JPEG."
+      ],
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "notes": "Reviewed for clearly adult styling, intact garment coverage, and the visible cue described above."
+      },
+      "used_by": [
+        "N017",
+        "N018"
+      ],
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "NS05",
+      "title": "Archival corset portrait",
+      "path": "assets/archival-corset.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/archival-corset.jpg",
+      "status": "ready",
+      "sha256": "d8b3206c22053f517d35c3832ce53a3e03070610724b19a8c1d6c70b174adfe5",
+      "source_type": "posed_photograph",
+      "license": "Public domain in the United States",
+      "creator": "Photographer uncredited, Library of Congress Prints & Photographs Division",
+      "redistribution_permission": "The 1899 photograph was registered with the U.S. Copyright Office. The Commons record identifies it as public domain and free of known copyright restrictions.",
+      "consent_basis": "Originally posed or staged as shown in the source record. The cases preserve or reduce intimate coverage and do not add a sexual act. A separate model release is unverified.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Woman_wearing_corset%2C_brushing_her_hair%2C_half-length_portrait%2C_standing%2C_facing_front_LCCN90710046.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Woman_wearing_corset%2C_brushing_her_hair%2C_half-length_portrait%2C_standing%2C_facing_front_LCCN90710046.jpg/960px-Woman_wearing_corset%2C_brushing_her_hair%2C_half-length_portrait%2C_standing%2C_facing_front_LCCN90710046.jpg",
+      "download_sha256": "66b655da4ed9ebd57cd7d8562504f7c51a64313b54c404a5765e1bed80c93f34",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Woman_wearing_corset%2C_brushing_her_hair%2C_half-length_portrait%2C_standing%2C_facing_front_LCCN90710046.jpg",
+          "basis_summary": "The 1899 photograph was registered with the U.S. Copyright Office. The Commons record identifies it as public domain and free of known copyright restrictions."
+        },
+        {
+          "url": "https://lccn.loc.gov/90710046",
+          "basis_summary": "Original publication, catalog record, or photographer upload linked from the Commons record."
+        }
+      ],
+      "visual_description": "Black-and-white half-length portrait of an adult model brushing her hair, with a white fitted corset visible over opaque clothing.",
+      "prepared_dimensions": [
+        960,
+        1197
+      ],
+      "transformations": [
+        "Downloaded the Commons 960-pixel-wide rendition of the source photograph. Applied orientation, resized to fit inside 1280 by 1280 without cropping, stripped metadata, and encoded an sRGB JPEG."
+      ],
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "notes": "Reviewed for clearly adult styling, intact garment coverage, and the visible cue described above."
       },
       "used_by": [
         "N013",
         "N014"
-      ],
-      "title": "IISc swimming pool",
-      "creator": "Shyamal",
-      "source_type": "location_photograph",
-      "license": "CC0-1.0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "redistribution_permission": "The copyright holder dedicated the exact photograph to the public domain under CC0.",
-      "consent_basis": "The photograph depicts an unoccupied outdoor pool and no identifiable people.",
-      "source_page": "https://commons.wikimedia.org/wiki/File:IISc_swimming_pool.jpg",
-      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/IISc_swimming_pool.jpg",
-      "original_candidate_sha256": "6aeb7792e0da5fcc93aa5264b7c8d01fabd48757946380f47a7c7ca3a52bcf5c",
-      "rights_evidence": [
-        {
-          "url": "https://commons.wikimedia.org/w/index.php?title=File:IISc_swimming_pool.jpg&oldid=957697573",
-          "basis_summary": "The file record names Shyamal and carries the photographer’s CC0 dedication."
-        }
-      ],
-      "visual_description": "An empty outdoor pool deck with a metal ladder and dense trees along the back of the pool."
-    },
-    {
-      "id": "NS05",
-      "path": "assets/portrait-A09.jpg",
-      "repository_path": "datasets/non-explicit-nsfw/assets/portrait-A09.jpg",
-      "status": "ready",
-      "sha256": "c16ee033b3701b6b1116b920c55d4c3bfc701ff5cb5a2695f101b55c75304140",
-      "prepared_dimensions": [
-        1200,
-        1200
-      ],
-      "transformations": [
-        "Applied EXIF orientation, resized to fit within 1200 by 1200 without cropping, converted to sRGB, stripped metadata, and encoded JPEG at quality 94 with 4:4:4 chroma."
-      ],
-      "visual_review": {
-        "reviewer": "Codex agent",
-        "notes": "The fictional adult is clearly visible. The prepared photograph preserves the face, hair, and unadorned studio background."
-      },
-      "used_by": [
-        "N019",
-        "N020",
-        "N025",
-        "N026",
-        "N029",
-        "N030"
-      ],
-      "title": "M1: clean fictional adult",
-      "creator": "OpenAI Codex built-in image generation, directed for this repository",
-      "source_type": "synthetic",
-      "license": "MIT (to the extent rights exist)",
-      "redistribution_permission": "Original synthetic output produced for this public repository at the maintainer request, contributed under the repository MIT terms to the extent rights exist. Output ownership basis: applicable OpenAI terms; no claim of copyrightability or third-party clearance.",
-      "consent_basis": "Entirely invented adult generated without an input photograph or a named real person.",
-      "terms_urls": [
-        "https://openai.com/policies/terms-of-use/"
-      ],
-      "generation_tool": "OpenAI Codex built-in image generation",
-      "generation_prompt": "Square photorealistic casting reference for a fictional film character, one entirely invented uninjured adult man aged 36, Black with deep brown skin, close-cropped hair and short neatly trimmed beard, plain dark teal crew-neck shirt. Neutral expression, straight-on head and upper chest centered in frame, diffuse neutral studio lighting, plain gray studio backdrop. No resemblance to any public figure. No other people, props, injuries, blood, weapons, text, logos, or watermark.",
-      "generation_output_id": "exec-ddf23447-4495-4cfd-9ebe-14b3468f512b.png",
-      "generated_at": "2026-11-07T06:24:23.075044+00:00",
-      "visual_description": "Uninjured adult man with short black hair, a trimmed beard and a dark teal shirt.",
-      "original_repository_path": "datasets/violence/assets/A09.png",
-      "original_candidate_sha256": "82e017f0d3ba8de535c66f53ba477dda38327ce98c33489881dd3c43be4c5da2"
+      ]
     },
     {
       "id": "NS06",
-      "path": "assets/portrait-A10.jpg",
-      "repository_path": "datasets/non-explicit-nsfw/assets/portrait-A10.jpg",
+      "title": "Reclining Hollywood pin-up",
+      "path": "assets/reclining-pinup.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/reclining-pinup.jpg",
       "status": "ready",
-      "sha256": "d25e7411d2d183c4950a73949262fd41a51ebd59259288fd15a9337012c12230",
+      "sha256": "9f19a4966b807a97bf3e63b86cae689775dc32ffd95ca90e5d003fc0b82ea79f",
+      "source_type": "posed_photograph",
+      "license": "Public domain in the United States",
+      "creator": "George Hurrell",
+      "redistribution_permission": "The source documents U.S. publication of the publicity photograph and checks the relevant U.S. renewal records without finding a renewal.",
+      "consent_basis": "Originally posed or staged as shown in the source record. The cases preserve or reduce intimate coverage and do not add a sexual act. A separate model release is unverified.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Jane_Russell_in_The_Outlaw.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jane_Russell_in_The_Outlaw.jpg/960px-Jane_Russell_in_The_Outlaw.jpg",
+      "download_sha256": "341b88b321b269aacaa6cd9e08560aa68fea333ee4863f93f59825cea1f48edb",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Jane_Russell_in_The_Outlaw.jpg",
+          "basis_summary": "The source documents U.S. publication of the publicity photograph and checks the relevant U.S. renewal records without finding a renewal."
+        },
+        {
+          "url": "https://archive.org/details/Motionpict19401949librrich0010",
+          "basis_summary": "Historical registration entry for the film. The Commons file record separately describes its search for renewal of the publicity photograph."
+        }
+      ],
+      "visual_description": "Black-and-white publicity photo of adult performer Jane Russell reclining on hay with one arm raised, in a low-cut opaque top and shorts.",
       "prepared_dimensions": [
-        1200,
-        1200
+        960,
+        784
       ],
       "transformations": [
-        "Applied EXIF orientation, resized to fit within 1200 by 1200 without cropping, converted to sRGB, stripped metadata, and encoded JPEG at quality 94 with 4:4:4 chroma."
+        "Downloaded the Commons 960-pixel-wide rendition of the source photograph. Applied orientation, resized to fit inside 1280 by 1280 without cropping, stripped metadata, and encoded an sRGB JPEG."
       ],
       "visual_review": {
         "reviewer": "Codex agent",
-        "notes": "The fictional adult is clearly visible. The prepared photograph preserves the face, hair, and unadorned studio background."
+        "notes": "Reviewed for clearly adult styling, intact garment coverage, and the visible cue described above."
+      },
+      "used_by": [
+        "N019",
+        "N020"
+      ]
+    },
+    {
+      "id": "NS07",
+      "title": "Vintage bikini editorial",
+      "path": "assets/vintage-bikini.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/vintage-bikini.jpg",
+      "status": "ready",
+      "sha256": "010b9ec89ae165ffd2cf51f8ebbe2d3fd4c8858f9b34219663f3fcf9233f533f",
+      "source_type": "posed_photograph",
+      "license": "Public domain in the United States",
+      "creator": "Photographer uncredited, published by Johnson Publishing Company",
+      "redistribution_permission": "A mechanical scan of a photograph published in the U.S. edition of Jet on 20 March 1952. The Commons record cites the U.S. public-domain basis as non-renewal.",
+      "consent_basis": "Originally posed or staged as shown in the source record. The cases preserve or reduce intimate coverage and do not add a sexual act. A separate model release is unverified.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:A_woman_wearing_a_bikini%2C_1952.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/A_woman_wearing_a_bikini%2C_1952.jpg/960px-A_woman_wearing_a_bikini%2C_1952.jpg",
+      "download_sha256": "e68c814daba346c92db9931017f0db15d932fd57cdddd1249ced9ae214d5ef43",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:A_woman_wearing_a_bikini%2C_1952.jpg",
+          "basis_summary": "A mechanical scan of a photograph published in the U.S. edition of Jet on 20 March 1952. The Commons record cites the U.S. public-domain basis as non-renewal."
+        },
+        {
+          "url": "https://books.google.com/books?id=GrIDAAAAMBAJ",
+          "basis_summary": "Original publication, catalog record, or photographer upload linked from the Commons record."
+        }
+      ],
+      "visual_description": "An adult swimwear model in an opaque two-piece bikini poses full-length beside a light backdrop, with a scarf tied at the hip.",
+      "prepared_dimensions": [
+        431,
+        1280
+      ],
+      "transformations": [
+        "Downloaded the Commons 960-pixel-wide rendition of the source photograph. Applied orientation, resized to fit inside 1280 by 1280 without cropping, stripped metadata, and encoded an sRGB JPEG."
+      ],
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "notes": "Reviewed for clearly adult styling, intact garment coverage, and the visible cue described above."
+      },
+      "used_by": [
+        "N021",
+        "N022"
+      ]
+    },
+    {
+      "id": "NS08",
+      "title": "White lingerie by a window",
+      "path": "assets/white-lingerie-window.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/white-lingerie-window.jpg",
+      "status": "ready",
+      "sha256": "9e707565273a792949bca6de97915abf65b1d75506e87022feb70026bffac791",
+      "source_type": "posed_photograph",
+      "license": "CC0-1.0",
+      "creator": "Petr Ovralov",
+      "redistribution_permission": "Published on Unsplash on 14 April 2017 during its CC0 period. The Commons record links the archived upload.",
+      "consent_basis": "Originally posed or staged as shown in the source record. The cases preserve or reduce intimate coverage and do not add a sexual act. A separate model release is unverified.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Woman_in_white_lingerie_%28Unsplash%29.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Woman_in_white_lingerie_%28Unsplash%29.jpg/960px-Woman_in_white_lingerie_%28Unsplash%29.jpg",
+      "download_sha256": "3280971243b4643b456d7db9800328a560bb8110ad875bde09459b6b0d091e70",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Woman_in_white_lingerie_%28Unsplash%29.jpg",
+          "basis_summary": "Published on Unsplash on 14 April 2017 during its CC0 period. The Commons record links the archived upload."
+        },
+        {
+          "url": "https://unsplash.com/photos/ZYTaLcqc4yA",
+          "basis_summary": "Original publication, catalog record, or photographer upload linked from the Commons record."
+        }
+      ],
+      "visual_description": "An adult model posing at a window in white boudoir clothing visible through a curtain that she holds in front of her. The curtain and clothing keep intimate areas covered.",
+      "prepared_dimensions": [
+        960,
+        639
+      ],
+      "transformations": [
+        "Downloaded the Commons 960-pixel-wide rendition of the source photograph. Applied orientation, resized to fit inside 1280 by 1280 without cropping, stripped metadata, and encoded an sRGB JPEG."
+      ],
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "notes": "Reviewed for clearly adult styling, intact garment coverage, and the visible cue described above."
       },
       "used_by": [
         "N029",
         "N030"
       ],
-      "title": "M2: clean fictional adult",
-      "creator": "OpenAI Codex built-in image generation, directed for this repository",
-      "source_type": "synthetic",
-      "license": "MIT (to the extent rights exist)",
-      "redistribution_permission": "Original synthetic output produced for this public repository at the maintainer request, contributed under the repository MIT terms to the extent rights exist. Output ownership basis: applicable OpenAI terms; no claim of copyrightability or third-party clearance.",
-      "consent_basis": "Entirely invented adult generated without an input photograph or a named real person.",
-      "terms_urls": [
-        "https://openai.com/policies/terms-of-use/"
-      ],
-      "generation_tool": "OpenAI Codex built-in image generation",
-      "generation_prompt": "Square photorealistic casting reference for a fictional film character, one entirely invented uninjured adult man aged 48, light skin, short sandy-brown hair with a slightly receding hairline, clean-shaven with a broad angular jaw, plain muted burgundy crew-neck shirt. Neutral expression, straight-on head and upper chest centered in frame, diffuse neutral studio lighting, plain gray studio backdrop. No resemblance to any public figure. No other people, props, injuries, blood, weapons, text, logos, or watermark.",
-      "generation_output_id": "exec-0cc5449e-11bd-44ee-9579-f268590169b0.png",
-      "generated_at": "2026-11-07T06:24:09.466362+00:00",
-      "visual_description": "Uninjured adult man with sandy-brown hair, a clean-shaven angular face and a burgundy shirt.",
-      "original_repository_path": "datasets/violence/assets/A10.png",
-      "original_candidate_sha256": "fe68acb3ae6bdb86349460953f5c5d0db4dc1235fbd4573b413f96e90a91a9a5"
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
     },
     {
-      "id": "NS07",
+      "id": "NS09",
       "path": "assets/portrait-A11.jpg",
       "repository_path": "datasets/non-explicit-nsfw/assets/portrait-A11.jpg",
       "status": "ready",
@@ -264,12 +369,8 @@
         "notes": "The fictional adult is clearly visible. The prepared photograph preserves the face, hair, and unadorned studio background."
       },
       "used_by": [
-        "N015",
-        "N016",
-        "N021",
-        "N022",
-        "N025",
-        "N026",
+        "N023",
+        "N024",
         "N027",
         "N028"
       ],
@@ -291,7 +392,7 @@
       "original_candidate_sha256": "4d68f79c4382c408257d2e8c7de0db46817ffc4b838dfdc2c67c4071a54c3f5b"
     },
     {
-      "id": "NS08",
+      "id": "NS10",
       "path": "assets/portrait-A13.jpg",
       "repository_path": "datasets/non-explicit-nsfw/assets/portrait-A13.jpg",
       "status": "ready",
@@ -308,12 +409,10 @@
         "notes": "The fictional adult is clearly visible. The prepared photograph preserves the face, hair, and unadorned studio background."
       },
       "used_by": [
-        "N017",
-        "N018",
-        "N023",
-        "N024",
-        "N027",
-        "N028"
+        "N025",
+        "N026",
+        "N029",
+        "N030"
       ],
       "title": "W3: clean fictional adult woman",
       "creator": "OpenAI Codex built-in image generation, directed for this repository",
