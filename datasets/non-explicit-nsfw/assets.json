@@ -4,40 +4,43 @@
   "assets": [
     {
       "id": "NS01",
-      "title": "Patterned bikini on a beach",
-      "path": "assets/beach-bikini.jpg",
-      "repository_path": "datasets/non-explicit-nsfw/assets/beach-bikini.jpg",
+      "title": "Rocky-coast bikini editorial",
+      "path": "assets/rocky-coast-bikini.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/rocky-coast-bikini.jpg",
       "status": "ready",
-      "sha256": "6f1653177904fe7ece05e0fb665a72288d903fffe09d0d5218c1a943d1a5b935",
+      "sha256": "f7764f0141a42aeefd1004da5d828975401b86d918d6a7cf8f396fe39521a682",
       "source_type": "posed_photograph",
       "license": "CC0-1.0",
-      "creator": "Jakob Owens",
-      "redistribution_permission": "Published on Unsplash on 27 May 2017 during its CC0 period. The Commons record links the archived upload.",
-      "consent_basis": "Originally posed or staged as shown in the source record. The cases preserve or reduce intimate coverage and do not add a sexual act. A separate model release is unverified.",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Woman_in_swimsuit_posing_%28Unsplash%29.jpg",
-      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Woman_in_swimsuit_posing_%28Unsplash%29.jpg/960px-Woman_in_swimsuit_posing_%28Unsplash%29.jpg",
-      "download_sha256": "dd926a56356ccf17a39d7a8fa34d7f95d174bdb9428bb2a907c87f46ab744c9c",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Summer Stock",
+      "redistribution_permission": "2017 Pexels upload during its CC0 period.",
+      "consent_basis": "The source shows a posed adult fashion or swimwear shoot. A separate model release is unverified.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Woman_Seating_on_Rock_Formation.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Woman_Seating_on_Rock_Formation.jpg/1280px-Woman_Seating_on_Rock_Formation.jpg",
+      "download_sha256": "fa91f7f7f19780bbbe2c85e7fc47b26ae250ca76b27967a17d4a8b16031405ab",
       "rights_evidence": [
         {
-          "url": "https://commons.wikimedia.org/wiki/File:Woman_in_swimsuit_posing_%28Unsplash%29.jpg",
-          "basis_summary": "Published on Unsplash on 27 May 2017 during its CC0 period. The Commons record links the archived upload."
+          "url": "https://commons.wikimedia.org/wiki/File:Woman_Seating_on_Rock_Formation.jpg",
+          "basis_summary": "2017 Pexels upload during its CC0 period."
         },
         {
-          "url": "https://unsplash.com/photos/gw8EYwxJxsU",
-          "basis_summary": "Original publication, catalog record, or photographer upload linked from the Commons record."
+          "url": "https://www.pexels.com/photo/woman-seating-on-rock-formation-300945/",
+          "basis_summary": "Original photographer upload identified by the Commons record."
         }
       ],
-      "visual_description": "Full-length editorial photo of an adult woman with dark curly hair and sunglasses standing on a beach in an opaque teal patterned two-piece bikini.",
+      "visual_description": "Adult model in a light triangle bikini top and turquoise bottoms, in a deliberately posed side view on seaside rocks.",
       "prepared_dimensions": [
-        960,
-        960
+        947,
+        605
       ],
       "transformations": [
-        "Downloaded the Commons 960-pixel-wide rendition of the source photograph. Applied orientation, resized to fit inside 1280 by 1280 without cropping, stripped metadata, and encoded an sRGB JPEG."
+        "Applied EXIF orientation.",
+        "Cropped to 947x605+205+239 within the oriented source for editorial framing.",
+        "Resized to fit within 1536 pixels without upscaling, stripped metadata, and encoded an sRGB JPEG."
       ],
       "visual_review": {
         "reviewer": "Codex agent",
-        "notes": "Reviewed for clearly adult styling, intact garment coverage, and the visible cue described above."
+        "notes": "Adult wardrobe and original coverage checked in the prepared frame."
       },
       "used_by": [
         "N007",
@@ -46,178 +49,183 @@
         "N016",
         "N023",
         "N024"
-      ],
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      ]
     },
     {
       "id": "NS02",
-      "title": "Black bandeau bikini portrait",
-      "path": "assets/bandeau-bikini.jpg",
-      "repository_path": "datasets/non-explicit-nsfw/assets/bandeau-bikini.jpg",
+      "title": "Turquoise bikini on sand",
+      "path": "assets/sand-turquoise-bikini.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/sand-turquoise-bikini.jpg",
       "status": "ready",
-      "sha256": "3700ee5d7fbe6ba510a17d63e381c6fe18a3a40143ea1f8ac509e6b4e82c4d6e",
+      "sha256": "083d9b2fc8fd35980c466dc0918eae3feddaac62f4ff8fb0bedbc4e884519791",
       "source_type": "posed_photograph",
       "license": "CC0-1.0",
-      "creator": "AnthonyRob2026",
-      "redistribution_permission": "The photographer lists the image as own work and dedicates it under CC0 on the source record.",
-      "consent_basis": "Originally posed or staged as shown in the source record. The cases preserve or reduce intimate coverage and do not add a sexual act. A separate model release is unverified.",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Woman_in_bikini_smiling.jpg",
-      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Woman_in_bikini_smiling.jpg/960px-Woman_in_bikini_smiling.jpg",
-      "download_sha256": "17d98f1a949fdac1d430947fe01eff076fa039bae22328dfcb7f30648cdf1e09",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Andrea Piacquadio",
+      "redistribution_permission": "January 2018 Pexels upload during its CC0 period.",
+      "consent_basis": "The source shows a posed adult fashion or swimwear shoot. A separate model release is unverified.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Woman_Wearing_Blue_Bikini_Lying_on_Sand.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Woman_Wearing_Blue_Bikini_Lying_on_Sand.jpg/1280px-Woman_Wearing_Blue_Bikini_Lying_on_Sand.jpg",
+      "download_sha256": "fb45a6e82a452efa46d14d48d2cbbfa00359d7c2e86ea8827cb079d5298d9cee",
       "rights_evidence": [
         {
-          "url": "https://commons.wikimedia.org/wiki/File:Woman_in_bikini_smiling.jpg",
-          "basis_summary": "The photographer lists the image as own work and dedicates it under CC0 on the source record."
+          "url": "https://commons.wikimedia.org/wiki/File:Woman_Wearing_Blue_Bikini_Lying_on_Sand.jpg",
+          "basis_summary": "January 2018 Pexels upload during its CC0 period."
         },
         {
-          "url": "https://commons.wikimedia.org/wiki/User:AnthonyRob2026",
-          "basis_summary": "Photographer account named in the Commons own-work declaration."
+          "url": "https://www.pexels.com/photo/photography-of-a-woman-wearing-blue-bikini-lying-on-sand-800259/",
+          "basis_summary": "Original photographer upload identified by the Commons record."
         }
       ],
-      "visual_description": "Low-angle portrait of an adult brunette wearing a black patterned bandeau bikini top, against a blue sky.",
+      "visual_description": "Reclining adult model in an opaque turquoise two-piece on sand, in warm light and a close side view.",
       "prepared_dimensions": [
-        960,
-        720
+        1280,
+        815
       ],
       "transformations": [
-        "Downloaded the Commons 960-pixel-wide rendition of the source photograph. Applied orientation, resized to fit inside 1280 by 1280 without cropping, stripped metadata, and encoded an sRGB JPEG."
+        "Applied EXIF orientation.",
+        "Resized to fit within 1536 pixels without upscaling, stripped metadata, and encoded an sRGB JPEG."
       ],
       "visual_review": {
         "reviewer": "Codex agent",
-        "notes": "Reviewed for clearly adult styling, intact garment coverage, and the visible cue described above."
+        "notes": "Adult wardrobe and original coverage checked in the prepared frame."
       },
       "used_by": [
         "N009",
         "N010",
         "N025",
         "N026"
-      ],
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      ]
     },
     {
       "id": "NS03",
-      "title": "Black lingerie on a sofa",
-      "path": "assets/black-lingerie-sofa.jpg",
-      "repository_path": "datasets/non-explicit-nsfw/assets/black-lingerie-sofa.jpg",
+      "title": "Black strappy bustier portrait",
+      "path": "assets/black-strappy-bustier.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/black-strappy-bustier.jpg",
       "status": "ready",
-      "sha256": "86d01ebfbb928b5b0c7dfd17e3dc36479efa2057758dc50ac2a1eebafdb404b7",
+      "sha256": "b6c9fd1fe267b592e1fd4e2cb921ac9f2f30231931a6f7d2ab4928952bcb4d3d",
       "source_type": "posed_photograph",
       "license": "CC0-1.0",
-      "creator": "Camila Cordeiro",
-      "redistribution_permission": "Published on Unsplash on 18 April 2017 during its CC0 period. The Commons record links the archived upload.",
-      "consent_basis": "Originally posed or staged as shown in the source record. The cases preserve or reduce intimate coverage and do not add a sexual act. A separate model release is unverified.",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Lounging_In_Lingerie_%28Unsplash%29.jpg",
-      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Lounging_In_Lingerie_%28Unsplash%29.jpg/960px-Lounging_In_Lingerie_%28Unsplash%29.jpg",
-      "download_sha256": "be4ed90cca4dedf9c20e5a60bf8b4b49da67fdc4e47968fb6288a225093f61a7",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Ricardo Mancía",
+      "redistribution_permission": "February 2017 Unsplash upload during its CC0 period.",
+      "consent_basis": "The source shows a posed adult fashion or swimwear shoot. A separate model release is unverified.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:My_First_Photoshoot_%28Unsplash%29.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/My_First_Photoshoot_%28Unsplash%29.jpg/1280px-My_First_Photoshoot_%28Unsplash%29.jpg",
+      "download_sha256": "309def13edef8d591f70865992f105a33734be8eeccaf19b684e4fa23b172ad5",
       "rights_evidence": [
         {
-          "url": "https://commons.wikimedia.org/wiki/File:Lounging_In_Lingerie_%28Unsplash%29.jpg",
-          "basis_summary": "Published on Unsplash on 18 April 2017 during its CC0 period. The Commons record links the archived upload."
+          "url": "https://commons.wikimedia.org/wiki/File:My_First_Photoshoot_%28Unsplash%29.jpg",
+          "basis_summary": "February 2017 Unsplash upload during its CC0 period."
         },
         {
-          "url": "https://unsplash.com/photos/fJFWWN0PLX4",
-          "basis_summary": "Original publication, catalog record, or photographer upload linked from the Commons record."
+          "url": "https://unsplash.com/photos/2WLNeSED_ys",
+          "basis_summary": "Original photographer upload identified by the Commons record."
         }
       ],
-      "visual_description": "An adult model sits sideways on a sofa in a black bra and dark bottoms, with her face in profile.",
+      "visual_description": "Adult model in a black strappy bustier, sunglasses and a burgundy jacket draped at the elbows, in a contrast-lit fashion portrait.",
       "prepared_dimensions": [
-        960,
-        640
+        1190,
+        1536
       ],
       "transformations": [
-        "Downloaded the Commons 960-pixel-wide rendition of the source photograph. Applied orientation, resized to fit inside 1280 by 1280 without cropping, stripped metadata, and encoded an sRGB JPEG."
+        "Applied EXIF orientation.",
+        "Resized to fit within 1536 pixels without upscaling, stripped metadata, and encoded an sRGB JPEG."
       ],
       "visual_review": {
         "reviewer": "Codex agent",
-        "notes": "Reviewed for clearly adult styling, intact garment coverage, and the visible cue described above."
+        "notes": "Adult wardrobe and original coverage checked in the prepared frame."
       },
       "used_by": [
         "N011",
         "N012",
         "N027",
         "N028"
-      ],
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      ]
     },
     {
       "id": "NS04",
-      "title": "White bikini at the beach",
-      "path": "assets/white-bikini-beach.jpg",
-      "repository_path": "datasets/non-explicit-nsfw/assets/white-bikini-beach.jpg",
+      "title": "Blue bikini in shallow surf",
+      "path": "assets/surf-tie-side-bikini.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/surf-tie-side-bikini.jpg",
       "status": "ready",
-      "sha256": "02f32af263ec1a2e97dbfe0dcc483071b8f9f051c328ca7942bbb62012649f8d",
+      "sha256": "4d5d1fa8097b6b02276d634c5ab94bf1681a44f3655f41e6e358925942f0d369",
       "source_type": "posed_photograph",
       "license": "CC0-1.0",
-      "creator": "Emily M",
-      "redistribution_permission": "The Commons import records the original photographer’s CC0 dedication on Flickr.",
-      "consent_basis": "Originally posed or staged as shown in the source record. The cases preserve or reduce intimate coverage and do not add a sexual act. A separate model release is unverified.",
-      "source_page": "https://commons.wikimedia.org/wiki/File:CC0_Bikini_white_and_sea.jpg",
-      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CC0_Bikini_white_and_sea.jpg/960px-CC0_Bikini_white_and_sea.jpg",
-      "download_sha256": "f25429faba47ee09d738cb3d091a11a42e770643b7fa88eed9dc503070d36bad",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Summer Stock",
+      "redistribution_permission": "2017 Pexels upload during its CC0 period.",
+      "consent_basis": "The source shows a posed adult fashion or swimwear shoot. A separate model release is unverified.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Woman_on_Body_of_Water.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Woman_on_Body_of_Water.jpg/1280px-Woman_on_Body_of_Water.jpg",
+      "download_sha256": "985bf791fa615778eac3efd7445499d6199f73aa82d4e6d38c74d9970c4140f8",
       "rights_evidence": [
         {
-          "url": "https://commons.wikimedia.org/wiki/File:CC0_Bikini_white_and_sea.jpg",
-          "basis_summary": "The Commons import records the original photographer’s CC0 dedication on Flickr."
+          "url": "https://commons.wikimedia.org/wiki/File:Woman_on_Body_of_Water.jpg",
+          "basis_summary": "2017 Pexels upload during its CC0 period."
         },
         {
-          "url": "https://www.flickr.com/photos/202874840@N07/54559964010/",
-          "basis_summary": "Original publication, catalog record, or photographer upload linked from the Commons record."
+          "url": "https://www.pexels.com/photo/woman-on-body-of-water-287908/",
+          "basis_summary": "Original photographer upload identified by the Commons record."
         }
       ],
-      "visual_description": "Rear-view fashion crop of an adult model in white bikini bottoms and a blue top at the beach. Her face is outside the frame.",
+      "visual_description": "Rear view of an adult model in an opaque blue bikini with narrow side straps, wet hair, and bright shallow surf.",
       "prepared_dimensions": [
-        877,
-        1280
+        640,
+        631
       ],
       "transformations": [
-        "Downloaded the Commons 960-pixel-wide rendition of the source photograph. Applied orientation, resized to fit inside 1280 by 1280 without cropping, stripped metadata, and encoded an sRGB JPEG."
+        "Applied EXIF orientation.",
+        "Cropped to 640x631+384+213 within the oriented source for editorial framing.",
+        "Resized to fit within 1536 pixels without upscaling, stripped metadata, and encoded an sRGB JPEG."
       ],
       "visual_review": {
         "reviewer": "Codex agent",
-        "notes": "Reviewed for clearly adult styling, intact garment coverage, and the visible cue described above."
+        "notes": "Adult wardrobe and original coverage checked in the prepared frame."
       },
       "used_by": [
         "N017",
         "N018"
-      ],
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      ]
     },
     {
       "id": "NS05",
-      "title": "Archival corset portrait",
-      "path": "assets/archival-corset.jpg",
-      "repository_path": "datasets/non-explicit-nsfw/assets/archival-corset.jpg",
+      "title": "Patterned bikini under a beach shower",
+      "path": "assets/blue-tile-shower-bikini.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/blue-tile-shower-bikini.jpg",
       "status": "ready",
-      "sha256": "d8b3206c22053f517d35c3832ce53a3e03070610724b19a8c1d6c70b174adfe5",
+      "sha256": "3dc91d16a1326f69bbca23b3d02e33b0062357c2b1e8881eda7981de4922761a",
       "source_type": "posed_photograph",
-      "license": "Public domain in the United States",
-      "creator": "Photographer uncredited, Library of Congress Prints & Photographs Division",
-      "redistribution_permission": "The 1899 photograph was registered with the U.S. Copyright Office. The Commons record identifies it as public domain and free of known copyright restrictions.",
-      "consent_basis": "Originally posed or staged as shown in the source record. The cases preserve or reduce intimate coverage and do not add a sexual act. A separate model release is unverified.",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Woman_wearing_corset%2C_brushing_her_hair%2C_half-length_portrait%2C_standing%2C_facing_front_LCCN90710046.jpg",
-      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Woman_wearing_corset%2C_brushing_her_hair%2C_half-length_portrait%2C_standing%2C_facing_front_LCCN90710046.jpg/960px-Woman_wearing_corset%2C_brushing_her_hair%2C_half-length_portrait%2C_standing%2C_facing_front_LCCN90710046.jpg",
-      "download_sha256": "66b655da4ed9ebd57cd7d8562504f7c51a64313b54c404a5765e1bed80c93f34",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Jay Cee",
+      "redistribution_permission": "December 2016 Unsplash upload during its CC0 period.",
+      "consent_basis": "The source shows a posed adult fashion or swimwear shoot. A separate model release is unverified.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:After_Beach_%28Unsplash%29.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/After_Beach_%28Unsplash%29.jpg/1280px-After_Beach_%28Unsplash%29.jpg",
+      "download_sha256": "904261051e6defcc5317e16952cb0ba08c7fe44ef1d6f5b831c2221802206246",
       "rights_evidence": [
         {
-          "url": "https://commons.wikimedia.org/wiki/File:Woman_wearing_corset%2C_brushing_her_hair%2C_half-length_portrait%2C_standing%2C_facing_front_LCCN90710046.jpg",
-          "basis_summary": "The 1899 photograph was registered with the U.S. Copyright Office. The Commons record identifies it as public domain and free of known copyright restrictions."
+          "url": "https://commons.wikimedia.org/wiki/File:After_Beach_%28Unsplash%29.jpg",
+          "basis_summary": "December 2016 Unsplash upload during its CC0 period."
         },
         {
-          "url": "https://lccn.loc.gov/90710046",
-          "basis_summary": "Original publication, catalog record, or photographer upload linked from the Commons record."
+          "url": "https://unsplash.com/photos/oOuMcN6JsoQ",
+          "basis_summary": "Original photographer upload identified by the Commons record."
         }
       ],
-      "visual_description": "Black-and-white half-length portrait of an adult model brushing her hair, with a white fitted corset visible over opaque clothing.",
+      "visual_description": "Overhead swimwear editorial with an adult wearing a patterned bikini top, visible water droplets, and blue tile.",
       "prepared_dimensions": [
-        960,
-        1197
+        1280,
+        853
       ],
       "transformations": [
-        "Downloaded the Commons 960-pixel-wide rendition of the source photograph. Applied orientation, resized to fit inside 1280 by 1280 without cropping, stripped metadata, and encoded an sRGB JPEG."
+        "Applied EXIF orientation.",
+        "Resized to fit within 1536 pixels without upscaling, stripped metadata, and encoded an sRGB JPEG."
       ],
       "visual_review": {
         "reviewer": "Codex agent",
-        "notes": "Reviewed for clearly adult styling, intact garment coverage, and the visible cue described above."
+        "notes": "Adult wardrobe and original coverage checked in the prepared frame."
       },
       "used_by": [
         "N013",
@@ -226,40 +234,43 @@
     },
     {
       "id": "NS06",
-      "title": "Reclining Hollywood pin-up",
-      "path": "assets/reclining-pinup.jpg",
-      "repository_path": "datasets/non-explicit-nsfw/assets/reclining-pinup.jpg",
+      "title": "Bikini editorial in sunlit dunes",
+      "path": "assets/sunlit-dunes-bikini.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/sunlit-dunes-bikini.jpg",
       "status": "ready",
-      "sha256": "9f19a4966b807a97bf3e63b86cae689775dc32ffd95ca90e5d003fc0b82ea79f",
+      "sha256": "908b4b05bc24a22f5268212c254937a526907c848a1b60391c8aa4761eb7cb0d",
       "source_type": "posed_photograph",
-      "license": "Public domain in the United States",
-      "creator": "George Hurrell",
-      "redistribution_permission": "The source documents U.S. publication of the publicity photograph and checks the relevant U.S. renewal records without finding a renewal.",
-      "consent_basis": "Originally posed or staged as shown in the source record. The cases preserve or reduce intimate coverage and do not add a sexual act. A separate model release is unverified.",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Jane_Russell_in_The_Outlaw.jpg",
-      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jane_Russell_in_The_Outlaw.jpg/960px-Jane_Russell_in_The_Outlaw.jpg",
-      "download_sha256": "341b88b321b269aacaa6cd9e08560aa68fea333ee4863f93f59825cea1f48edb",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Summer Stock",
+      "redistribution_permission": "2017 Pexels upload during its CC0 period.",
+      "consent_basis": "The source shows a posed adult fashion or swimwear shoot. A separate model release is unverified.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Woman_lying_on_sand_at_beach.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Woman_lying_on_sand_at_beach.jpg/1280px-Woman_lying_on_sand_at_beach.jpg",
+      "download_sha256": "f4d63a8597e932c891de0de4448737413c3cf98836bef73e56ce2b74081a3a6c",
       "rights_evidence": [
         {
-          "url": "https://commons.wikimedia.org/wiki/File:Jane_Russell_in_The_Outlaw.jpg",
-          "basis_summary": "The source documents U.S. publication of the publicity photograph and checks the relevant U.S. renewal records without finding a renewal."
+          "url": "https://commons.wikimedia.org/wiki/File:Woman_lying_on_sand_at_beach.jpg",
+          "basis_summary": "2017 Pexels upload during its CC0 period."
         },
         {
-          "url": "https://archive.org/details/Motionpict19401949librrich0010",
-          "basis_summary": "Historical registration entry for the film. The Commons file record separately describes its search for renewal of the publicity photograph."
+          "url": "https://www.pexels.com/photo/woman-lying-on-sand-at-beach-331714/",
+          "basis_summary": "Original photographer upload identified by the Commons record."
         }
       ],
-      "visual_description": "Black-and-white publicity photo of adult performer Jane Russell reclining on hay with one arm raised, in a low-cut opaque top and shorts.",
+      "visual_description": "Full-length side profile of an adult model reclining with arms overhead in a patterned two-piece with side ties.",
       "prepared_dimensions": [
-        960,
-        784
+        1228,
+        495
       ],
       "transformations": [
-        "Downloaded the Commons 960-pixel-wide rendition of the source photograph. Applied orientation, resized to fit inside 1280 by 1280 without cropping, stripped metadata, and encoded an sRGB JPEG."
+        "Applied EXIF orientation.",
+        "Cropped to 1228x495+26+247 within the oriented source for editorial framing.",
+        "Resized to fit within 1536 pixels without upscaling, stripped metadata, and encoded an sRGB JPEG."
       ],
       "visual_review": {
         "reviewer": "Codex agent",
-        "notes": "Reviewed for clearly adult styling, intact garment coverage, and the visible cue described above."
+        "notes": "Adult wardrobe and original coverage checked in the prepared frame."
       },
       "used_by": [
         "N019",
@@ -268,40 +279,42 @@
     },
     {
       "id": "NS07",
-      "title": "Vintage bikini editorial",
-      "path": "assets/vintage-bikini.jpg",
-      "repository_path": "datasets/non-explicit-nsfw/assets/vintage-bikini.jpg",
+      "title": "Golden-hour group swim campaign",
+      "path": "assets/golden-hour-swim-campaign.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/golden-hour-swim-campaign.jpg",
       "status": "ready",
-      "sha256": "010b9ec89ae165ffd2cf51f8ebbe2d3fd4c8858f9b34219663f3fcf9233f533f",
+      "sha256": "06c95a345639bd979be68ffda99f2db7d004f938acec557f1a6bdf2600914ac5",
       "source_type": "posed_photograph",
-      "license": "Public domain in the United States",
-      "creator": "Photographer uncredited, published by Johnson Publishing Company",
-      "redistribution_permission": "A mechanical scan of a photograph published in the U.S. edition of Jet on 20 March 1952. The Commons record cites the U.S. public-domain basis as non-renewal.",
-      "consent_basis": "Originally posed or staged as shown in the source record. The cases preserve or reduce intimate coverage and do not add a sexual act. A separate model release is unverified.",
-      "source_page": "https://commons.wikimedia.org/wiki/File:A_woman_wearing_a_bikini%2C_1952.jpg",
-      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/A_woman_wearing_a_bikini%2C_1952.jpg/960px-A_woman_wearing_a_bikini%2C_1952.jpg",
-      "download_sha256": "e68c814daba346c92db9931017f0db15d932fd57cdddd1249ced9ae214d5ef43",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Andrea Piacquadio",
+      "redistribution_permission": "January 2018 Pexels upload during its CC0 period.",
+      "consent_basis": "The source shows a posed adult fashion or swimwear shoot. A separate model release is unverified.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Women_in_Bikini%2C_by_Andrea_Piacquadio.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Women_in_Bikini%2C_by_Andrea_Piacquadio.jpg/1280px-Women_in_Bikini%2C_by_Andrea_Piacquadio.jpg",
+      "download_sha256": "286dc1f37c45a4babd060c36433ff6f9c63ff0884f7b236ae7c478d06ab633a6",
       "rights_evidence": [
         {
-          "url": "https://commons.wikimedia.org/wiki/File:A_woman_wearing_a_bikini%2C_1952.jpg",
-          "basis_summary": "A mechanical scan of a photograph published in the U.S. edition of Jet on 20 March 1952. The Commons record cites the U.S. public-domain basis as non-renewal."
+          "url": "https://commons.wikimedia.org/wiki/File:Women_in_Bikini%2C_by_Andrea_Piacquadio.jpg",
+          "basis_summary": "January 2018 Pexels upload during its CC0 period."
         },
         {
-          "url": "https://books.google.com/books?id=GrIDAAAAMBAJ",
-          "basis_summary": "Original publication, catalog record, or photographer upload linked from the Commons record."
+          "url": "https://www.pexels.com/photo/group-of-women-wearing-bikini-on-body-of-water-815996/",
+          "basis_summary": "Original photographer upload identified by the Commons record."
         }
       ],
-      "visual_description": "An adult swimwear model in an opaque two-piece bikini poses full-length beside a light backdrop, with a scarf tied at the hip.",
+      "visual_description": "Four adult models in different two-piece swimsuits walk through the surf. The third from the left wears a black top and yellow bottoms.",
       "prepared_dimensions": [
-        431,
-        1280
+        1280,
+        913
       ],
       "transformations": [
-        "Downloaded the Commons 960-pixel-wide rendition of the source photograph. Applied orientation, resized to fit inside 1280 by 1280 without cropping, stripped metadata, and encoded an sRGB JPEG."
+        "Applied EXIF orientation.",
+        "Resized to fit within 1536 pixels without upscaling, stripped metadata, and encoded an sRGB JPEG."
       ],
       "visual_review": {
         "reviewer": "Codex agent",
-        "notes": "Reviewed for clearly adult styling, intact garment coverage, and the visible cue described above."
+        "notes": "Adult wardrobe and original coverage checked in the prepared frame."
       },
       "used_by": [
         "N021",
@@ -310,46 +323,47 @@
     },
     {
       "id": "NS08",
-      "title": "White lingerie by a window",
-      "path": "assets/white-lingerie-window.jpg",
-      "repository_path": "datasets/non-explicit-nsfw/assets/white-lingerie-window.jpg",
+      "title": "White lace studio boudoir",
+      "path": "assets/white-lace-studio-boudoir.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/white-lace-studio-boudoir.jpg",
       "status": "ready",
-      "sha256": "9e707565273a792949bca6de97915abf65b1d75506e87022feb70026bffac791",
+      "sha256": "3b41902c983f82784af483a1b68e1291902b34f2d2b531de2d9430c909f7246a",
       "source_type": "posed_photograph",
       "license": "CC0-1.0",
-      "creator": "Petr Ovralov",
-      "redistribution_permission": "Published on Unsplash on 14 April 2017 during its CC0 period. The Commons record links the archived upload.",
-      "consent_basis": "Originally posed or staged as shown in the source record. The cases preserve or reduce intimate coverage and do not add a sexual act. A separate model release is unverified.",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Woman_in_white_lingerie_%28Unsplash%29.jpg",
-      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Woman_in_white_lingerie_%28Unsplash%29.jpg/960px-Woman_in_white_lingerie_%28Unsplash%29.jpg",
-      "download_sha256": "3280971243b4643b456d7db9800328a560bb8110ad875bde09459b6b0d091e70",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Victoria_Watercolor",
+      "redistribution_permission": "July 2018 upload with an archived Pixabay CC0 declaration linked from Commons.",
+      "consent_basis": "The source shows a posed adult fashion or swimwear shoot. A separate model release is unverified.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Blonde_woman_wearing_lace_underwear-3542292.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Blonde_woman_wearing_lace_underwear-3542292.jpg/1280px-Blonde_woman_wearing_lace_underwear-3542292.jpg",
+      "download_sha256": "d1b2d692012e104a8b6daa5f0f21fde6225f62324f9479aa6cc74bce65430aac",
       "rights_evidence": [
         {
-          "url": "https://commons.wikimedia.org/wiki/File:Woman_in_white_lingerie_%28Unsplash%29.jpg",
-          "basis_summary": "Published on Unsplash on 14 April 2017 during its CC0 period. The Commons record links the archived upload."
+          "url": "https://commons.wikimedia.org/wiki/File:Blonde_woman_wearing_lace_underwear-3542292.jpg",
+          "basis_summary": "July 2018 upload with an archived Pixabay CC0 declaration linked from Commons."
         },
         {
-          "url": "https://unsplash.com/photos/ZYTaLcqc4yA",
-          "basis_summary": "Original publication, catalog record, or photographer upload linked from the Commons record."
+          "url": "https://pixabay.com/photos/underwear-lace-lingerie-blonde-3542292/",
+          "basis_summary": "Original photographer upload identified by the Commons record."
         }
       ],
-      "visual_description": "An adult model posing at a window in white boudoir clothing visible through a curtain that she holds in front of her. The curtain and clothing keep intimate areas covered.",
+      "visual_description": "Adult model in a white lace layer over covered intimate areas, with side lighting, blonde hair, and an ornate necklace.",
       "prepared_dimensions": [
-        960,
-        639
+        1024,
+        1536
       ],
       "transformations": [
-        "Downloaded the Commons 960-pixel-wide rendition of the source photograph. Applied orientation, resized to fit inside 1280 by 1280 without cropping, stripped metadata, and encoded an sRGB JPEG."
+        "Applied EXIF orientation.",
+        "Resized to fit within 1536 pixels without upscaling, stripped metadata, and encoded an sRGB JPEG."
       ],
       "visual_review": {
         "reviewer": "Codex agent",
-        "notes": "Reviewed for clearly adult styling, intact garment coverage, and the visible cue described above."
+        "notes": "Adult wardrobe and original coverage checked in the prepared frame."
       },
       "used_by": [
         "N029",
         "N030"
-      ],
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      ]
     },
     {
       "id": "NS09",

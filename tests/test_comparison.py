@@ -727,7 +727,7 @@ class PhotoDesignAndConcurrencyTests(unittest.TestCase):
                 original = b.ROOT / asset['original_repository_path']
                 self.assertEqual(b.digest(original.read_bytes()), asset['original_candidate_sha256'])
             else:
-                self.assertIn(asset['license'], ('CC0-1.0', 'Public domain in the United States'))
+                self.assertEqual(asset['license'], 'CC0-1.0')
             self.assertEqual(asset['used_by'], [case['id'] for case in cases if asset['id'] in case['reference_asset_ids']])
 
     def test_design_counts_are_explicit_and_legacy_schema_stays_strict(self):
