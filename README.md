@@ -1,7 +1,8 @@
 # Nano Banana content policy tests
 
-Compare Segmind and fal on the included [violence dataset](datasets/violence/README.md).
-The suite has 30 fictional filmmaking tasks: eight staged-violence edits,
+Compare Segmind and fal on the included [violence dataset](datasets/violence/README.md)
+or the [non-explicit NSFW candidate](datasets/non-explicit-nsfw/README.md).
+The default violence suite has 30 fictional filmmaking tasks: eight staged-violence edits,
 16 clean-reference scenes and six prompt-only scenes. Tasks use ordered character,
 weapon and equipment references where specified.
 The [calibration workflow](docs/semantic-calibration.md) explains how to test,
@@ -81,7 +82,9 @@ explicit access token cannot be refreshed and can expire during a long run.
 ## Choose a model and run
 
 `python benchmark.py models` lists IDs, families, exact endpoints and settings.
-The model is independent of the dataset; no dataset argument is needed.
+The model is independent of the dataset. The commands below use the default
+violence suite. To select the adult-imagery candidate, pass
+`--dataset datasets/non-explicit-nsfw` to `validate`, `plan`, and `run`.
 
 | Model argument | Model family |
 | --- | --- |
@@ -222,13 +225,13 @@ The broad `--content-match` review is required for returned images to be scored.
 
 ## Maintain the dataset
 
-The only maintained benchmark is [datasets/violence](datasets/violence/README.md).
-Add new violence cases and documented references there. Update its version,
-review the input/provenance changes, and deliberately replace its freeze before
-collecting new comparison results. The freeze must cover every reference, even
-for a selected-case smoke test. Historical run snapshots and results keep their original identities and hashes.
+Keep each dataset's cases and documented references in its own directory.
+Update its version, review the input and provenance changes, and deliberately
+replace its freeze before collecting new comparison results. The freeze must
+cover every reference, even for a selected-case smoke test. Historical run
+snapshots and results keep their original identities and hashes.
 
-All 18 references are included. Their [asset manifest](datasets/violence/assets.json)
+All 18 violence references are included. Their [asset manifest](datasets/violence/assets.json)
 records exact credits, CC0 or U.S.-only government-work claims for third-party
 photos, synthetic-image provenance for six portraits and six props, preparation steps,
 SHA-256 values and repository-relative file paths. The runner verifies immutable

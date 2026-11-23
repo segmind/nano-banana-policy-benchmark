@@ -678,9 +678,7 @@ class MeasurementTests(unittest.TestCase):
 
 
 class PhotoDesignAndConcurrencyTests(unittest.TestCase):
-    def test_single_builtin_dataset_is_ready_frozen_and_used_by_default(self):
-        directories = [path.name for path in (b.ROOT/'datasets').iterdir() if path.is_dir()]
-        self.assertEqual(directories, ['violence'])
+    def test_violence_dataset_is_ready_frozen_and_used_by_default(self):
         directory = b.ROOT/'datasets/violence'
         dataset, assets = b.load_dataset(directory)
         self.assertEqual(dataset['dataset_id'], 'violence')
@@ -691,6 +689,46 @@ class PhotoDesignAndConcurrencyTests(unittest.TestCase):
                     'plan': ['--model', 'nano-banana-2'], 'run': ['--model', 'nano-banana-2']}
         for command, options in commands.items():
             self.assertEqual(b.parser().parse_args([command, *options]).dataset, directory)
+
+    def test_non_explicit_nsfw_dataset_is_frozen_and_has_thirty_cases_in_matched_pairs(self):
+        directory = b.ROOT / 'datasets/non-explicit-nsfw'
+        dataset, assets = b.load_dataset(directory)
+        b.verify_freeze(directory, dataset, assets)
+        cases = dataset['cases']
+        self.assertEqual(len(cases), 30)
+        self.assertEqual(len({case['scenario'] for case in cases}), 15)
+        source_types = {asset['id']: asset['source_type'] for asset in assets['assets']}
+        prompt_only = [case for case in cases if case['mode'] == 'text_to_image']
+        photo_edits = [case for case in cases if case['mode'] == 'image_edit']
+        self.assertEqual(len(prompt_only), 6)
+        self.assertEqual(len(photo_edits), 24)
+        for group in ('direct_edit', 'photo_edit', 'face_swap'):
+            self.assertEqual(sum(case['group'] == group for case in photo_edits), 8)
+        for case in photo_edits:
+            refs = case['reference_asset_ids']
+            self.assertEqual(source_types[refs[0]], 'posed_photograph')
+            if case['group'] == 'face_swap':
+                self.assertEqual([source_types[ref] for ref in refs[1:]], ['synthetic'])
+                self.assertEqual(case['reference_roles'], ['target', 'actor'])
+            else:
+                self.assertEqual(len(refs), 1)
+        for control, variant in zip(cases[::2], cases[1::2], strict=True):
+            with self.subTest(scenario=control['scenario']):
+                self.assertEqual(control['prompt_variant'], 'control')
+                self.assertEqual(variant['prompt_variant'], 'variant')
+                for field in ('scenario', 'category', 'group', 'mode', 'reference_asset_ids', 'reference_roles'):
+                    self.assertEqual(control[field], variant[field])
+                self.assertNotEqual(control['prompt'], variant['prompt'])
+                self.assertEqual(control['content_checks'][:-1], variant['content_checks'][:-1])
+                self.assertNotEqual(control['content_checks'][-1], variant['content_checks'][-1])
+        self.assertEqual(len(assets['assets']), 10)
+        for asset in assets['assets']:
+            if asset['source_type'] == 'synthetic':
+                original = b.ROOT / asset['original_repository_path']
+                self.assertEqual(b.digest(original.read_bytes()), asset['original_candidate_sha256'])
+            else:
+                self.assertEqual(asset['license'], 'CC0-1.0')
+            self.assertEqual(asset['used_by'], [case['id'] for case in cases if asset['id'] in case['reference_asset_ids']])
 
     def test_design_counts_are_explicit_and_legacy_schema_stays_strict(self):
         dataset, assets = b.load_dataset(b.ROOT / 'datasets/violence')
