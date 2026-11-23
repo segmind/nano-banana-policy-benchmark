@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "publication_repository": "segmind/nano-banana-policy-benchmark",
+  "assets": [
+    {
+      "id": "NS01",
+      "title": "Bed in hotel room",
+      "path": "assets/hotel-room.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/hotel-room.jpg",
+      "status": "ready",
+      "sha256": "630d648a0e77fe85bae02ce2570a16d83e7bbaacd0b701b8368ae0997ffe2383",
+      "source_type": "location_photograph",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Kurt Kaiser",
+      "redistribution_permission": "The copyright holder dedicated the exact photograph to the public domain under CC0.",
+      "consent_basis": "The reference shows an empty room with no identifiable people.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bed_in_hotel_room.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bed_in_hotel_room.jpg",
+      "original_candidate_sha256": "e539153bb977fff4e25ace0786c480c880518475ae2a158844a2b08c59121a50",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?title=File:Bed_in_hotel_room.jpg&oldid=853525264",
+          "basis_summary": "The source file record names the photographer and carries the photographer's CC0 dedication."
+        }
+      ],
+      "used_by": ["N009", "N010"],
+      "visual_description": "A white bed enters from the left foreground, with a brown wooden door at the back of the room.",
+      "prepared_dimensions": [900, 1200],
+      "transformations": [
+        "Applied EXIF orientation, scaled to 900 by 1200 without cropping, converted to sRGB, stripped metadata, and encoded JPEG at quality 94 with 4:4:4 chroma."
+      ],
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "notes": "The prepared frame retains the bed and door used in the checks. No people are visible."
+      }
+    },
+    {
+      "id": "NS02",
+      "title": "Nightgown, 1880s",
+      "path": "assets/vintage-nightgown.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/vintage-nightgown.jpg",
+      "status": "ready",
+      "sha256": "19ea185a3e2654827f8eda5d4e294af91e7d478dcc6fb82a8aae4dd82c5d6d26",
+      "source_type": "museum_object_photograph",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "The Metropolitan Museum of Art (collection photograph)",
+      "redistribution_permission": "The Met marks the object image Public Domain and makes those images available under CC0 through its Open Access program.",
+      "consent_basis": "The garment is on a dress form. No person is depicted.",
+      "source_page": "https://www.metmuseum.org/art/collection/search/109209",
+      "original_download_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/109209/321502/main-image",
+      "original_candidate_sha256": "9889eb6b08a2c75b3dd6354224aafb93cbfff8202570b2465e3364f60c6a3187",
+      "rights_evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/109209",
+          "basis_summary": "Catalog record C.I.47.53.7 marks the image Public Domain and lists the image used here."
+        },
+        {
+          "url": "https://www.metmuseum.org/hubs/open-access",
+          "basis_summary": "The Met applies CC0 to its Open Access images of public-domain works."
+        }
+      ],
+      "used_by": ["N011", "N012"],
+      "visual_description": "An ivory long-sleeved nightgown with a high neckline and ruffled front, photographed on a dress form.",
+      "prepared_dimensions": [900, 1200],
+      "transformations": [
+        "Applied EXIF orientation, converted to sRGB, centered the complete source image on a 900 by 1200 canvas without scaling or cropping, stripped metadata, and encoded JPEG at quality 94 with 4:4:4 chroma."
+      ],
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "notes": "The prepared image retains the full nightgown, including the neckline, long sleeves, and ruffled front. No people are visible."
+      }
+    }
+  ]
+}
