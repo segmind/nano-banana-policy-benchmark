@@ -690,23 +690,37 @@ class PhotoDesignAndConcurrencyTests(unittest.TestCase):
         for command, options in commands.items():
             self.assertEqual(b.parser().parse_args([command, *options]).dataset, directory)
 
-    def test_non_explicit_nsfw_dataset_is_frozen_and_has_six_matched_pairs(self):
+    def test_non_explicit_nsfw_dataset_is_frozen_and_has_thirty_cases_in_matched_pairs(self):
         directory = b.ROOT / 'datasets/non-explicit-nsfw'
         dataset, assets = b.load_dataset(directory)
         b.verify_freeze(directory, dataset, assets)
         cases = dataset['cases']
-        self.assertEqual(len(cases), 12)
-        self.assertEqual(sum(case['mode'] == 'image_edit' for case in cases), 4)
-        self.assertEqual(len({case['scenario'] for case in cases}), 6)
+        self.assertEqual(len(cases), 30)
+        self.assertEqual(len({case['scenario'] for case in cases}), 15)
+        source_types = {asset['id']: asset['source_type'] for asset in assets['assets']}
+        prompt_only = [case for case in cases if case['mode'] == 'text_to_image']
+        cast_edits = [case for case in cases if
+                      any(source_types[ref] == 'synthetic' for ref in case['reference_asset_ids'])]
+        self.assertEqual(len(prompt_only), 6)
+        self.assertEqual(len(cast_edits), 16)
+        self.assertEqual(sum(case['mode'] == 'image_edit' for case in cases) - len(cast_edits), 8)
+        self.assertEqual(sum(len(case['reference_asset_ids']) == 2 for case in cast_edits), 6)
         for control, variant in zip(cases[::2], cases[1::2], strict=True):
             with self.subTest(scenario=control['scenario']):
-                for field in ('scenario', 'mode', 'reference_asset_ids', 'reference_roles'):
+                self.assertEqual(control['prompt_variant'], 'control')
+                self.assertEqual(variant['prompt_variant'], 'variant')
+                for field in ('scenario', 'category', 'mode', 'reference_asset_ids', 'reference_roles'):
                     self.assertEqual(control[field], variant[field])
                 self.assertNotEqual(control['prompt'], variant['prompt'])
                 self.assertEqual(control['content_checks'][:-1], variant['content_checks'][:-1])
                 self.assertNotEqual(control['content_checks'][-1], variant['content_checks'][-1])
+        self.assertEqual(len(assets['assets']), 8)
         for asset in assets['assets']:
-            self.assertEqual(asset['license'], 'CC0-1.0')
+            if asset['source_type'] == 'synthetic':
+                original = b.ROOT / asset['original_repository_path']
+                self.assertEqual(b.digest(original.read_bytes()), asset['original_candidate_sha256'])
+            else:
+                self.assertEqual(asset['license'], 'CC0-1.0')
             self.assertEqual(asset['used_by'], [case['id'] for case in cases if asset['id'] in case['reference_asset_ids']])
 
     def test_design_counts_are_explicit_and_legacy_schema_stays_strict(self):

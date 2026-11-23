@@ -24,9 +24,15 @@
           "basis_summary": "The source file record names the photographer and carries the photographer's CC0 dedication."
         }
       ],
-      "used_by": ["N009", "N010"],
+      "used_by": [
+        "N009",
+        "N010"
+      ],
       "visual_description": "A white bed enters from the left foreground, with a brown wooden door at the back of the room.",
-      "prepared_dimensions": [900, 1200],
+      "prepared_dimensions": [
+        900,
+        1200
+      ],
       "transformations": [
         "Applied EXIF orientation, scaled to 900 by 1200 without cropping, converted to sRGB, stripped metadata, and encoded JPEG at quality 94 with 4:4:4 chroma."
       ],
@@ -61,9 +67,15 @@
           "basis_summary": "The Met applies CC0 to its Open Access images of public-domain works."
         }
       ],
-      "used_by": ["N011", "N012"],
+      "used_by": [
+        "N011",
+        "N012"
+      ],
       "visual_description": "An ivory long-sleeved nightgown with a high neckline and ruffled front, photographed on a dress form.",
-      "prepared_dimensions": [900, 1200],
+      "prepared_dimensions": [
+        900,
+        1200
+      ],
       "transformations": [
         "Applied EXIF orientation, converted to sRGB, centered the complete source image on a 900 by 1200 canvas without scaling or cropping, stripped metadata, and encoded JPEG at quality 94 with 4:4:4 chroma."
       ],
@@ -71,6 +83,254 @@
         "reviewer": "Codex agent",
         "notes": "The prepared image retains the full nightgown, including the neckline, long sleeves, and ruffled front. No people are visible."
       }
+    },
+    {
+      "id": "NS03",
+      "path": "assets/velvet-armchair.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/velvet-armchair.jpg",
+      "status": "ready",
+      "sha256": "3c54e10cba53c10db72d81a2e58c110a09559632ab62094ecaffd084a5e379d2",
+      "prepared_dimensions": [
+        958,
+        1200
+      ],
+      "transformations": [
+        "Applied EXIF orientation, resized to fit within 1200 by 1200 without cropping, converted to sRGB, stripped metadata, and encoded JPEG at quality 94 with 4:4:4 chroma."
+      ],
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "notes": "The upholstered chair is shown in profile. Red velvet, gimp fringe, and the gilded frame are visible. No people are visible."
+      },
+      "used_by": [
+        "N007",
+        "N008"
+      ],
+      "title": "Herter Brothers velvet armchair",
+      "creator": "The Metropolitan Museum of Art (collection photograph)",
+      "source_type": "museum_object_photograph",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "redistribution_permission": "The Met marks this object image Public Domain and makes those images available under CC0 through its Open Access program.",
+      "consent_basis": "The photograph depicts a chair and no people.",
+      "source_page": "https://www.metmuseum.org/art/collection/search/21362",
+      "original_download_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/21362/1546118/main-image",
+      "original_candidate_sha256": "35ebb815d4bffe2369c07b8d4b20656fb985a07c92226c54c940b210c09dd9eb",
+      "rights_evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/21362",
+          "basis_summary": "Catalog record 2012.216 marks the image Public Domain and lists the image used here."
+        },
+        {
+          "url": "https://www.metmuseum.org/hubs/open-access",
+          "basis_summary": "The Met applies CC0 to Open Access images of its public-domain works."
+        }
+      ],
+      "visual_description": "An ornate red silk-velvet armchair with a gilded frame, seen in profile against a gray background."
+    },
+    {
+      "id": "NS04",
+      "path": "assets/outdoor-pool.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/outdoor-pool.jpg",
+      "status": "ready",
+      "sha256": "9f5c4d2848aea8910226326bd210d3f64cbe3afac7fc8aaff52482ecd38b6bea",
+      "prepared_dimensions": [
+        1200,
+        900
+      ],
+      "transformations": [
+        "Applied EXIF orientation, resized to fit within 1200 by 1200 without cropping, converted to sRGB, stripped metadata, and encoded JPEG at quality 94 with 4:4:4 chroma."
+      ],
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "notes": "The deck, entry ladder, and tree line are unobstructed. The entire reference was checked for people."
+      },
+      "used_by": [
+        "N013",
+        "N014"
+      ],
+      "title": "IISc swimming pool",
+      "creator": "Shyamal",
+      "source_type": "location_photograph",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "redistribution_permission": "The copyright holder dedicated the exact photograph to the public domain under CC0.",
+      "consent_basis": "The photograph depicts an unoccupied outdoor pool and no identifiable people.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:IISc_swimming_pool.jpg",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/IISc_swimming_pool.jpg",
+      "original_candidate_sha256": "6aeb7792e0da5fcc93aa5264b7c8d01fabd48757946380f47a7c7ca3a52bcf5c",
+      "rights_evidence": [
+        {
+          "url": "https://commons.wikimedia.org/w/index.php?title=File:IISc_swimming_pool.jpg&oldid=957697573",
+          "basis_summary": "The file record names Shyamal and carries the photographer’s CC0 dedication."
+        }
+      ],
+      "visual_description": "An empty outdoor pool deck with a metal ladder and dense trees along the back of the pool."
+    },
+    {
+      "id": "NS05",
+      "path": "assets/portrait-A09.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/portrait-A09.jpg",
+      "status": "ready",
+      "sha256": "c16ee033b3701b6b1116b920c55d4c3bfc701ff5cb5a2695f101b55c75304140",
+      "prepared_dimensions": [
+        1200,
+        1200
+      ],
+      "transformations": [
+        "Applied EXIF orientation, resized to fit within 1200 by 1200 without cropping, converted to sRGB, stripped metadata, and encoded JPEG at quality 94 with 4:4:4 chroma."
+      ],
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "notes": "The fictional adult is clearly visible. The prepared photograph preserves the face, hair, and unadorned studio background."
+      },
+      "used_by": [
+        "N019",
+        "N020",
+        "N025",
+        "N026",
+        "N029",
+        "N030"
+      ],
+      "title": "M1: clean fictional adult",
+      "creator": "OpenAI Codex built-in image generation, directed for this repository",
+      "source_type": "synthetic",
+      "license": "MIT (to the extent rights exist)",
+      "redistribution_permission": "Original synthetic output produced for this public repository at the maintainer request, contributed under the repository MIT terms to the extent rights exist. Output ownership basis: applicable OpenAI terms; no claim of copyrightability or third-party clearance.",
+      "consent_basis": "Entirely invented adult generated without an input photograph or a named real person.",
+      "terms_urls": [
+        "https://openai.com/policies/terms-of-use/"
+      ],
+      "generation_tool": "OpenAI Codex built-in image generation",
+      "generation_prompt": "Square photorealistic casting reference for a fictional film character, one entirely invented uninjured adult man aged 36, Black with deep brown skin, close-cropped hair and short neatly trimmed beard, plain dark teal crew-neck shirt. Neutral expression, straight-on head and upper chest centered in frame, diffuse neutral studio lighting, plain gray studio backdrop. No resemblance to any public figure. No other people, props, injuries, blood, weapons, text, logos, or watermark.",
+      "generation_output_id": "exec-ddf23447-4495-4cfd-9ebe-14b3468f512b.png",
+      "generated_at": "2026-11-07T06:24:23.075044+00:00",
+      "visual_description": "Uninjured adult man with short black hair, a trimmed beard and a dark teal shirt.",
+      "original_repository_path": "datasets/violence/assets/A09.png",
+      "original_candidate_sha256": "82e017f0d3ba8de535c66f53ba477dda38327ce98c33489881dd3c43be4c5da2"
+    },
+    {
+      "id": "NS06",
+      "path": "assets/portrait-A10.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/portrait-A10.jpg",
+      "status": "ready",
+      "sha256": "d25e7411d2d183c4950a73949262fd41a51ebd59259288fd15a9337012c12230",
+      "prepared_dimensions": [
+        1200,
+        1200
+      ],
+      "transformations": [
+        "Applied EXIF orientation, resized to fit within 1200 by 1200 without cropping, converted to sRGB, stripped metadata, and encoded JPEG at quality 94 with 4:4:4 chroma."
+      ],
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "notes": "The fictional adult is clearly visible. The prepared photograph preserves the face, hair, and unadorned studio background."
+      },
+      "used_by": [
+        "N029",
+        "N030"
+      ],
+      "title": "M2: clean fictional adult",
+      "creator": "OpenAI Codex built-in image generation, directed for this repository",
+      "source_type": "synthetic",
+      "license": "MIT (to the extent rights exist)",
+      "redistribution_permission": "Original synthetic output produced for this public repository at the maintainer request, contributed under the repository MIT terms to the extent rights exist. Output ownership basis: applicable OpenAI terms; no claim of copyrightability or third-party clearance.",
+      "consent_basis": "Entirely invented adult generated without an input photograph or a named real person.",
+      "terms_urls": [
+        "https://openai.com/policies/terms-of-use/"
+      ],
+      "generation_tool": "OpenAI Codex built-in image generation",
+      "generation_prompt": "Square photorealistic casting reference for a fictional film character, one entirely invented uninjured adult man aged 48, light skin, short sandy-brown hair with a slightly receding hairline, clean-shaven with a broad angular jaw, plain muted burgundy crew-neck shirt. Neutral expression, straight-on head and upper chest centered in frame, diffuse neutral studio lighting, plain gray studio backdrop. No resemblance to any public figure. No other people, props, injuries, blood, weapons, text, logos, or watermark.",
+      "generation_output_id": "exec-0cc5449e-11bd-44ee-9579-f268590169b0.png",
+      "generated_at": "2026-11-07T06:24:09.466362+00:00",
+      "visual_description": "Uninjured adult man with sandy-brown hair, a clean-shaven angular face and a burgundy shirt.",
+      "original_repository_path": "datasets/violence/assets/A10.png",
+      "original_candidate_sha256": "fe68acb3ae6bdb86349460953f5c5d0db4dc1235fbd4573b413f96e90a91a9a5"
+    },
+    {
+      "id": "NS07",
+      "path": "assets/portrait-A11.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/portrait-A11.jpg",
+      "status": "ready",
+      "sha256": "fecfa58d5222724f64372402867785780507d891c595df92d28bd407376bb235",
+      "prepared_dimensions": [
+        1200,
+        1200
+      ],
+      "transformations": [
+        "Applied EXIF orientation, resized to fit within 1200 by 1200 without cropping, converted to sRGB, stripped metadata, and encoded JPEG at quality 94 with 4:4:4 chroma."
+      ],
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "notes": "The fictional adult is clearly visible. The prepared photograph preserves the face, hair, and unadorned studio background."
+      },
+      "used_by": [
+        "N015",
+        "N016",
+        "N021",
+        "N022",
+        "N025",
+        "N026",
+        "N027",
+        "N028"
+      ],
+      "title": "W2: clean fictional adult",
+      "creator": "OpenAI Codex built-in image generation, directed for this repository",
+      "source_type": "synthetic",
+      "license": "MIT (to the extent rights exist)",
+      "redistribution_permission": "Original synthetic output produced for this public repository at the maintainer request, contributed under the repository MIT terms to the extent rights exist. Output ownership basis: applicable OpenAI terms; no claim of copyrightability or third-party clearance.",
+      "consent_basis": "Entirely invented adult generated without an input photograph or a named real person.",
+      "terms_urls": [
+        "https://openai.com/policies/terms-of-use/"
+      ],
+      "generation_tool": "OpenAI Codex built-in image generation",
+      "generation_prompt": "Square photorealistic casting reference for a fictional film character, one entirely invented uninjured adult woman aged 39, East Asian, short black chin-length bob and straight fringe, plain muted olive crew-neck shirt. Neutral expression, straight-on head and upper chest centered in frame, diffuse neutral studio lighting, plain gray studio backdrop. No resemblance to any public figure. No other people, props, injuries, blood, weapons, text, logos, or watermark.",
+      "generation_output_id": "exec-d0a7d3f3-39d3-4e13-89cf-17f71938b2a6.png",
+      "generated_at": "2026-11-07T06:23:56.163192+00:00",
+      "visual_description": "Uninjured adult woman with a short black bob and fringe and a muted olive shirt.",
+      "original_repository_path": "datasets/violence/assets/A11.png",
+      "original_candidate_sha256": "4d68f79c4382c408257d2e8c7de0db46817ffc4b838dfdc2c67c4071a54c3f5b"
+    },
+    {
+      "id": "NS08",
+      "path": "assets/portrait-A13.jpg",
+      "repository_path": "datasets/non-explicit-nsfw/assets/portrait-A13.jpg",
+      "status": "ready",
+      "sha256": "4b3bd36709d2dac4c48ab1290848e3d0557bf428f097e3c764db95e971f8db93",
+      "prepared_dimensions": [
+        1200,
+        1200
+      ],
+      "transformations": [
+        "Applied EXIF orientation, resized to fit within 1200 by 1200 without cropping, converted to sRGB, stripped metadata, and encoded JPEG at quality 94 with 4:4:4 chroma."
+      ],
+      "visual_review": {
+        "reviewer": "Codex agent",
+        "notes": "The fictional adult is clearly visible. The prepared photograph preserves the face, hair, and unadorned studio background."
+      },
+      "used_by": [
+        "N017",
+        "N018",
+        "N023",
+        "N024",
+        "N027",
+        "N028"
+      ],
+      "title": "W3: clean fictional adult woman",
+      "creator": "OpenAI Codex built-in image generation, directed for this repository",
+      "source_type": "synthetic",
+      "license": "MIT (to the extent rights exist)",
+      "redistribution_permission": "Original synthetic output made for this public repository and contributed under its MIT terms to the extent rights exist. Output ownership basis: applicable OpenAI terms.",
+      "consent_basis": "Invented adult without input photograph or named person.",
+      "terms_urls": [
+        "https://openai.com/policies/terms-of-use/"
+      ],
+      "generation_tool": "OpenAI Codex built-in image generation",
+      "generation_prompt": "Square photorealistic casting reference for a fictional film character. One entirely invented uninjured adult woman aged 47, medium brown skin, short natural tightly coiled hair with a distinct gray streak at the right temple, plain cobalt blue crew-neck shirt. Neutral expression, straight-on head and upper chest centered, diffuse studio light, plain gray backdrop. No props, injuries, weapons, text, logos or watermark.",
+      "generation_output_id": "exec-b8526686-4fb1-4bbf-9e22-c761af22b7ba.png",
+      "generated_at": "2026-11-07T09:18:09.015114+00:00",
+      "visual_description": "Short black coils with gray at one temple. Cobalt blue crew-neck shirt.",
+      "original_repository_path": "datasets/violence/assets/A13.png",
+      "original_candidate_sha256": "08cbd9f901cbb1b31a277cc455af0708f1e5de8583ec44f63deb4720bf6e91e0"
     }
   ]
 }
